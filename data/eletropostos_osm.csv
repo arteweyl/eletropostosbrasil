@@ -1,108 +1,108 @@
 id_posto,nome,latitude,longitude,endereco,cidade,estado,tipo_conector,potencia_kw,rede,preco_recarga,status_operacional,is_publico,fonte_dados
-osm_4305047889,Balsa Leia,-1.9192939,-55.5156603,Avenida Siqueira Campos,Óbidos,PA,Não Informado,Não Informada,Balsa Leia,Não Informado,Ativo,True,OpenStreetMap
-osm_4324626090,Auto Posto Porto,-15.851941,-58.4704355,Rua Durval SAnta Maria Lebre,Porto Esperidião,MT,Não Informado,Não Informada,Auto Posto Porto,Não Informado,Ativo,True,OpenStreetMap
+osm_4305047889,Balsa Leia,-1.9192939,-55.5156603,Avenida Siqueira Campos,Óbidos,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4324626090,Auto Posto Porto,-15.851941,-58.4704355,Rua Durval SAnta Maria Lebre,Porto Esperidião,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4380754491,Posto e Conveniência Celeiro,-12.0600494,-63.5575703,Rua Paulo Afonso,São Francisco do Guaporé,RO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4391907990,Eletroposto Independente,-10.9875913,-38.8011237,Rodovia Santos Dumont,Tucano,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4406374089,Petrobrás,-29.8487759,-51.1418072,Rua São Benedito,Sapucaia do Sul,RS,Não Informado,Não Informada,Petrobrás,Não Informado,Ativo,True,OpenStreetMap
+osm_4406374089,Petrobrás,-29.8487759,-51.1418072,Rua São Benedito,Sapucaia do Sul,RS,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4450584394,Ipiranga,-6.0716894,-49.8977085,Rua Liberdade,Parauapebas,PA,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
 osm_4493304798,posto Patrão,-10.876467,-61.9460593,Rua Seis de Maio,Ji-Paraná,RO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4503244793,Pedropaulo,-2.8616839,-67.769798,Rua Getúlio Vargas,Tonantins,AM,Não Informado,Não Informada,Pedropaulo,Não Informado,Ativo,True,OpenStreetMap
 osm_4503280690,Equador,-2.8605419,-67.7703995,Rua Duque de Caxias,Tonantins,AM,Não Informado,Não Informada,Equador,Não Informado,Ativo,True,OpenStreetMap
-osm_4549319921,Auto posto Novo mundo,-8.7768771,-50.4689332,Avenida José Martins de Resende,Santa Maria das Barreiras,PA,Não Informado,Não Informada,Auto posto Novo mundo,Não Informado,Ativo,True,OpenStreetMap
-osm_4556211697,Posto Paizão,-28.6356251,-53.610052,Rua General Felipe Portinho,Cruz Alta,RS,Não Informado,Não Informada,Posto Shell,Não Informado,Ativo,True,OpenStreetMap
-osm_4556251493,Posto Ipiranga,-28.6531775,-53.5892539,Avenida Saturnino de Brito,Cruz Alta,RS,Não Informado,Não Informada,Posto Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4549319921,Auto posto Novo mundo,-8.7768771,-50.4689332,Avenida José Martins de Resende,Santa Maria das Barreiras,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4556211697,Posto Paizão,-28.6356251,-53.610052,Rua General Felipe Portinho,Cruz Alta,RS,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,OpenStreetMap
+osm_4556251493,Posto Ipiranga,-28.6531775,-53.5892539,Avenida Saturnino de Brito,Cruz Alta,RS,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
 osm_4557762766,Estrelar Auto Elétrica,-28.6468323,-53.5852484,Avenida Plácido de Castro,Cruz Alta,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4557938491,PROTTI,-28.6461669,-53.5962822,Avenida Saturnino de Brito,Cruz Alta,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4565028090,Ipiranga,-8.7017417,-35.1567764,PE-060,Rio Formoso,PE,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
-osm_4572010593,auto pisto mar- alegre BR,-22.9469499,-43.0574955,Rua Nicanor Nunes,Niterói,RJ,Não Informado,Não Informada,auto pisto mar- alegre BR,Não Informado,Ativo,True,OpenStreetMap
-osm_4572572393,Bandeira Petrobrás,-20.480274,-54.6406611,Rua Doutor Mário Quintanilha,Campo Grande,MS,Não Informado,Não Informada,Bandeira Petrobrás,Não Informado,Ativo,True,OpenStreetMap
+osm_4572010593,auto pisto mar- alegre BR,-22.9469499,-43.0574955,Rua Nicanor Nunes,Niterói,RJ,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_4572572393,Bandeira Petrobrás,-20.480274,-54.6406611,Rua Doutor Mário Quintanilha,Campo Grande,MS,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4572582789,Bandeira Grupo JD,-20.4924163,-54.6491459,Rua Temiminós,Campo Grande,MS,Não Informado,Não Informada,Bandeira Grupo JD,Não Informado,Ativo,True,OpenStreetMap
 osm_4582037290,Ipiranga,-6.0897752,-49.8585738,Avenida H,Parauapebas,PA,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
-osm_4582038191,Petrobrás,-6.0814076,-49.8568224,Avenida B5,Parauapebas,PA,Não Informado,Não Informada,Petrobrás,Não Informado,Ativo,True,OpenStreetMap
+osm_4582038191,Petrobrás,-6.0814076,-49.8568224,Avenida B5,Parauapebas,PA,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4584108395,Eletroposto Independente,-28.5865236,-52.2039698,Rua Bento Gonçalves,Camargo,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4584746891,chell,-27.8640926,-54.4852278,Rua Doutor Francisco Timm,Santa Rosa,RS,Não Informado,Não Informada,chell,Não Informado,Ativo,True,OpenStreetMap
+osm_4584746891,chell,-27.8640926,-54.4852278,Rua Doutor Francisco Timm,Santa Rosa,RS,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,OpenStreetMap
 osm_4584855597,Eletroposto Independente,-29.3353583,-49.73252,Avenida Bento Gonçalves,Torres,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4592819489,Curitiba Eco Elétrico,-25.4424143,-49.241076,Rua Engenheiro Ostoja Roguski,Curitiba,PR,Não Informado,Não Informada,Curitiba Eco Elétrico,Não Informado,Ativo,True,OpenStreetMap
 osm_4606999394,BASE SA BOMON,-3.1243995,-51.7214434,Rodovia Transamazônica,Vitória do Xingu,PA,Não Informado,Não Informada,BASE SA BOMON,Não Informado,Ativo,True,OpenStreetMap
-osm_4610868389,auto posto 3 corações,-14.3143625,-49.1539578,Avenida Bernardo Sayão,Campinorte,GO,Não Informado,Não Informada,auto posto 3 corações,Não Informado,Ativo,True,OpenStreetMap
-osm_4610868391,auto posto hotel churrasqueira Belém Brasília,-14.3149875,-49.150605,Rua Lino Prado,Campinorte,GO,Não Informado,Não Informada,auto posto hotel churrasqueira Belém Brasília,Não Informado,Ativo,True,OpenStreetMap
+osm_4610868389,auto posto 3 corações,-14.3143625,-49.1539578,Avenida Bernardo Sayão,Campinorte,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4610868391,auto posto hotel churrasqueira Belém Brasília,-14.3149875,-49.150605,Rua Lino Prado,Campinorte,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4614878389,Eletroposto Independente,-23.5466205,-51.451983,Avenida Minas Gerais,Apucarana,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4616238990,Posto Toledo,-21.7059385,-41.0404375,Rua José Pinto Alves,São João da Barra,RJ,Não Informado,Não Informada,Posto Toledo,Não Informado,Ativo,True,OpenStreetMap
-osm_4616238991,Posto Graffite,-21.7030023,-41.0362613,Avenida Liberdade,Figueira,RJ,Não Informado,Não Informada,Posto Graffite,Não Informado,Ativo,True,OpenStreetMap
+osm_4616238990,Posto Toledo,-21.7059385,-41.0404375,Rua José Pinto Alves,São João da Barra,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4616238991,Posto Graffite,-21.7030023,-41.0362613,Avenida Liberdade,Figueira,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4624938691,Rede Marajó do Cariri,-11.9051072,-49.174018,BR-153,Cariri do Tocantins,TO,Não Informado,Não Informada,Rede Marajó do Cariri,Não Informado,Ativo,True,OpenStreetMap
-osm_4628974813,Posto Brasil,-5.6167765,-45.7686658,Rodovia BR-226,Grajaú,MA,Não Informado,Não Informada,Posto Brasil,Não Informado,Ativo,True,OpenStreetMap
-osm_4637903489,Auto Posto Nova Olinda,-7.6285043,-48.4263858,Rua Tocantinópolis,Nova Olinda,TO,Não Informado,Não Informada,Auto Posto Nova Olinda,Não Informado,Ativo,True,OpenStreetMap
-osm_4649312895,Posto Bolinha,-25.4588262,-49.2619757,Rua João Parolin,Curitiba,PR,Não Informado,Não Informada,Posto Bolinha,Não Informado,Ativo,True,OpenStreetMap
+osm_4628974813,Posto Brasil,-5.6167765,-45.7686658,Rodovia BR-226,Grajaú,MA,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_4637903489,Auto Posto Nova Olinda,-7.6285043,-48.4263858,Rua Tocantinópolis,Nova Olinda,TO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4649312895,Posto Bolinha,-25.4588262,-49.2619757,Rua João Parolin,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4653450999,Megapetro,-29.8901003,-50.275825,Rua Paul Harris,Osório,RS,Não Informado,Não Informada,Megapetro,Não Informado,Ativo,True,OpenStreetMap
-osm_4658429490,Posto Jatobá BR,-8.8941941,-36.4956354,Rua Melo Peixoto,Garanhuns,PE,Não Informado,Não Informada,Posto Jatobá BR,Não Informado,Ativo,True,OpenStreetMap
-osm_4664191294,ipiringa,-29.7593053,-57.0656058,Rua Franklin Fernandes,Uruguaiana,RS,Não Informado,Não Informada,ipiringa,Não Informado,Ativo,True,OpenStreetMap
+osm_4658429490,Posto Jatobá BR,-8.8941941,-36.4956354,Rua Melo Peixoto,Garanhuns,PE,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_4664191294,ipiringa,-29.7593053,-57.0656058,Rua Franklin Fernandes,Uruguaiana,RS,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
 osm_4681043894,Posto Talismã,-4.1675213,-40.7525294,Avenida Tenente Matias,Guaraciaba do Norte,CE,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
-osm_4683545689,POSTO SERTÃ,-7.8482197,-34.9095055,Avenida Alfredo Bandeira de Melo,Igarassu,PE,Não Informado,Não Informada,POSTO SERTÃ,Não Informado,Ativo,True,OpenStreetMap
-osm_4688564590,BR,-3.7462426,-38.5851818,Avenida Coronel Matos Dourado,Dom Lustosa,CE,Não Informado,Não Informada,BR,Não Informado,Ativo,True,OpenStreetMap
+osm_4683545689,POSTO SERTÃ,-7.8482197,-34.9095055,Avenida Alfredo Bandeira de Melo,Igarassu,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4688564590,BR,-3.7462426,-38.5851818,Avenida Coronel Matos Dourado,Dom Lustosa,CE,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4692672413,Sat,-6.3381319,-35.3140321,RN-003,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
 osm_4692710389,Sat,-6.335439,-35.2999211,Rua Sebastião Camilo,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
-osm_4715091590,GNV BR ARACATI,-4.5783902,-37.7791617,Rota do Sol Nascente,Aracati,CE,Não Informado,Não Informada,GNV BR ARACATI,Não Informado,Ativo,True,OpenStreetMap
+osm_4715091590,GNV BR ARACATI,-4.5783902,-37.7791617,Rota do Sol Nascente,Aracati,CE,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4715773790,Sat,-6.3355801,-35.300003,Rua Sebastião Camilo,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
 osm_4715780189,Sat,-6.3381434,-35.3140715,RN-003,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
-osm_4726712289,posto seta,-8.2787392,-36.0042067,Rua Alexandrino Boa ventura,Caruaru,PE,Não Informado,Não Informada,posto seta,Não Informado,Ativo,True,OpenStreetMap
+osm_4726712289,posto seta,-8.2787392,-36.0042067,Rua Alexandrino Boa ventura,Caruaru,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4735586927,Ipiranga,-30.3764126,-56.4522907,Rua Doutor Ascanio Tubino,Quaraí,RS,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
 osm_4735586928,Eletroposto Independente,-30.3855634,-56.4401337,Avenida 20 de Setembro,Quaraí,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4741393330,Eletroposto Independente,-16.6906974,-49.2574125,Rua 87,Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4742231421,Boa Hora Project,-8.3299846,-36.2239297,Rodovia BR-232,Tacaimbó,PE,Não Informado,Não Informada,Boa Hora Project,Não Informado,Ativo,True,OpenStreetMap
 osm_4756281122,Eletroposto Independente,-12.9950869,-38.4762139,Avenida Juracy Magalhães Júnior,Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4760842726,2802 - POSTO CENTRAL,-8.5793127,-35.3860234,Avenida Ulisses Guimaraes,Gameleira,PE,Não Informado,Não Informada,2802 - POSTO CENTRAL,Não Informado,Ativo,True,OpenStreetMap
+osm_4760842726,2802 - POSTO CENTRAL,-8.5793127,-35.3860234,Avenida Ulisses Guimaraes,Gameleira,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4762342849,"2800 - AMPM, Germares conveniência",-8.6799582,-35.1585008,PE-060,Rio Formoso,PE,Não Informado,Não Informada,"2800 - AMPM, Germares conveniência",Não Informado,Ativo,True,OpenStreetMap
-osm_4762824159,2808 - CONVENIÊNCIA PETROX,-8.8038874,-35.1877511,PE-060,Barreiros,PE,Não Informado,Não Informada,2808 - CONVENIÊNCIA PETROX,Não Informado,Ativo,True,OpenStreetMap
+osm_4762824159,2808 - CONVENIÊNCIA PETROX,-8.8038874,-35.1877511,PE-060,Barreiros,PE,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4790962823,Eletroposto Independente,-28.173459,-53.4732253,BR-158,Condor,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4791443535,POSTO UMBURUÇU,-9.3259521,-40.4634509,BR-428,Petrolina,PE,Não Informado,Não Informada,POSTO UMBURUÇU,Não Informado,Ativo,True,OpenStreetMap
-osm_4791451027,3026 - POSTO CACHOEIRA 2,-8.0795808,-39.1312595,Rodovia Santos Dumont,Salgueiro,PE,Não Informado,Não Informada,3026 - POSTO CACHOEIRA 2,Não Informado,Ativo,True,OpenStreetMap
-osm_4791465922,3079 - POSTO CACHOEIRA 4,-8.096094,-39.5858624,Rodovia BR-232,Parnamirim,PE,Não Informado,Não Informada,3079 - POSTO CACHOEIRA 4,Não Informado,Ativo,True,OpenStreetMap
-osm_4794306230,POSTO VERCOL 2,-8.0621634,-39.1185872,Rua Coronel Veremundo,Salgueiro,PE,Não Informado,Não Informada,POSTO VERCOL 2,Não Informado,Ativo,True,OpenStreetMap
-osm_4795166726,WA - TAURUS,-20.4667233,-55.7816601,Avenida Doutor Sabino,Aquidauana,MS,Não Informado,Não Informada,WA - TAURUS,Não Informado,Ativo,True,OpenStreetMap
+osm_4791443535,POSTO UMBURUÇU,-9.3259521,-40.4634509,BR-428,Petrolina,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4791451027,3026 - POSTO CACHOEIRA 2,-8.0795808,-39.1312595,Rodovia Santos Dumont,Salgueiro,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4791465922,3079 - POSTO CACHOEIRA 4,-8.096094,-39.5858624,Rodovia BR-232,Parnamirim,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4794306230,POSTO VERCOL 2,-8.0621634,-39.1185872,Rua Coronel Veremundo,Salgueiro,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4795166726,WA - TAURUS,-20.4667233,-55.7816601,Avenida Doutor Sabino,Aquidauana,MS,Não Informado,Não Informada,Taurus,Não Informado,Ativo,True,OpenStreetMap
 osm_4795791923,Eletroposto Independente,-5.4534426,-44.4600041,Rodovia BR-135,Presidente Dutra,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4802042236,AUTO POSTO BEZERRA,-7.5869021,-37.5382207,Avenida Antonio Pereira,Tabira,PE,Não Informado,Não Informada,AUTO POSTO BEZERRA,Não Informado,Ativo,True,OpenStreetMap
-osm_4805650324,ipiranga,-13.3692468,-39.0706836,Avenida Maçônica,Valença,BA,Não Informado,Não Informada,ipiranga,Não Informado,Ativo,True,OpenStreetMap
-osm_4806120322,AUTO POSTO MARAVILHA 2,-7.986487,-38.2905457,Rua Antônio Alves da Silveira,Serra Talhada,PE,Não Informado,Não Informada,AUTO POSTO MARAVILHA 2,Não Informado,Ativo,True,OpenStreetMap
+osm_4802042236,AUTO POSTO BEZERRA,-7.5869021,-37.5382207,Avenida Antonio Pereira,Tabira,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4805650324,ipiranga,-13.3692468,-39.0706836,Avenida Maçônica,Valença,BA,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4806120322,AUTO POSTO MARAVILHA 2,-7.986487,-38.2905457,Rua Antônio Alves da Silveira,Serra Talhada,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4807447521,Eletroposto Independente,-6.0727892,-49.8667124,PA-160,Parauapebas,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4809609621,Eletroposto Independente,-6.0781921,-49.9127061,Avenida Princesa Izabel,Parauapebas,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4833360622,Posto Caracol,-5.0232173,-56.1867318,BR-163,Trairão,PA,Não Informado,Não Informada,Posto Caracol,Não Informado,Ativo,True,OpenStreetMap
-osm_4833371721,Posto Ipiranga - Míriam,-4.3468797,-55.7881323,Rua dos Ipês,Itaituba,PA,Não Informado,Não Informada,Posto Ipiranga - Míriam,Não Informado,Ativo,True,OpenStreetMap
+osm_4833360622,Posto Caracol,-5.0232173,-56.1867318,BR-163,Trairão,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4833371721,Posto Ipiranga - Míriam,-4.3468797,-55.7881323,Rua dos Ipês,Itaituba,PA,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
 osm_4840101722,Ipiranga,-23.2798452,-50.0554445,Rodovia Transbrasiliana,Santo Antônio da Platina,PR,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
 osm_4856083921,Líder,-21.7369309,-43.4423561,Rodovia Presidente Juscelino Kubitschek,Juiz de Fora,MG,Não Informado,Não Informada,Líder,Não Informado,Ativo,True,OpenStreetMap
 osm_4858345621,Eletroposto Independente,3.3655523,-59.8401516,Avenida São Sebastião,Bonfim,RR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4859977223,Posto Medeiros,-16.6644533,-49.2799114,Rua C,Goiânia,GO,Não Informado,Não Informada,Bandeira Branca,Não Informado,Ativo,True,OpenStreetMap
-osm_4880374522,Posto Dom Eliseu,-4.312501,-47.5532271,Rua Carlos Bartolomeu,Dom Eliseu,PA,Não Informado,Não Informada,Posto Dom Eliseu,Não Informado,Ativo,True,OpenStreetMap
+osm_4859977223,Posto Medeiros,-16.6644533,-49.2799114,Rua C,Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4880374522,Posto Dom Eliseu,-4.312501,-47.5532271,Rua Carlos Bartolomeu,Dom Eliseu,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4883611726,Eletroposto Independente,-19.4987459,-41.9773688,Avenida José Antônio Santana,São Sebastião do Anta,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4894584421,Taurus,-20.350113,-56.1561919,BR-262,Miranda,MS,Não Informado,Não Informada,Taurus,Não Informado,Ativo,True,OpenStreetMap
 osm_4894620822,Taurus,-20.6520776,-55.8983273,Estrada do 21,Anastácio,MS,Não Informado,Não Informada,Taurus,Não Informado,Ativo,True,OpenStreetMap
 osm_4896288025,Eletroposto Independente,-20.4729376,-55.7934858,Rua Assis Ribeiro,Aquidauana,MS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4919875122,POSTO SÃO JOÃO BATISTA (BR),-7.5759824,-40.5100458,Avenida Florentino Alves Batista,Araripina,PE,Não Informado,Não Informada,POSTO SÃO JOÃO BATISTA (BR),Não Informado,Ativo,True,OpenStreetMap
-osm_4936168324,Posto Terras Altas,-22.273609,-44.8764036,Rua Um,Itamonte,MG,Não Informado,Não Informada,Posto Terras Altas,Não Informado,Ativo,True,OpenStreetMap
+osm_4919875122,POSTO SÃO JOÃO BATISTA (BR),-7.5759824,-40.5100458,Avenida Florentino Alves Batista,Araripina,PE,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_4936168324,Posto Terras Altas,-22.273609,-44.8764036,Rua Um,Itamonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4949362224,Petrobras,-18.5942435,-46.5124107,Avenida Brasil,Patos de Minas,MG,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
-osm_4949389421,Shell,-18.5960102,-46.515508,Avenida Getúlio Vargas,Patos de Minas,MG,Não Informado,Não Informada,Shell,Não Informado,Ativo,True,OpenStreetMap
+osm_4949389421,Shell,-18.5960102,-46.515508,Avenida Getúlio Vargas,Patos de Minas,MG,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,OpenStreetMap
 osm_4950821221,Petrobras,-19.0399727,-46.222983,BR-354,Carmo do Paranaíba,MG,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_4958910124,walmor Rodrigues,-29.8883758,-50.2672948,Rua Santos Dumont,Osório,RS,Não Informado,Não Informada,walmor Rodrigues,Não Informado,Ativo,True,OpenStreetMap
-osm_4978088229,Ipiranga Chammas,-23.1974233,-49.7563619,Rua Coronel Emílio Gomes,Ribeirão Claro,PR,Não Informado,Não Informada,Ipiranga Chammas,Não Informado,Ativo,True,OpenStreetMap
-osm_4978121522,Posto Combustível Chammas,-23.191972,-49.7573221,Rua Coronel Emílio Gomes,Ribeirão Claro,PR,Não Informado,Não Informada,Posto Combustível Chammas,Não Informado,Ativo,True,OpenStreetMap
-osm_4983903821,posto Zrma,-18.4559961,-50.4536279,Avenida Dom Pedro I,Quirinópolis,GO,Não Informado,Não Informada,posto Zrma,Não Informado,Ativo,True,OpenStreetMap
-osm_4983903826,posto Jacarezinho,-18.4465348,-50.4570783,Avenida Lázaro Xavier,Quirinópolis,GO,Não Informado,Não Informada,posto Jacarezinho,Não Informado,Ativo,True,OpenStreetMap
-osm_4983903827,posto Central,-18.4478733,-50.4555572,Avenida Brasil,Quirinópolis,GO,Não Informado,Não Informada,posto Central,Não Informado,Ativo,True,OpenStreetMap
-osm_4983903829,posto varejão,-18.449399,-50.4475032,Rua Pastor Zetil,Quirinópolis,GO,Não Informado,Não Informada,posto varejão,Não Informado,Ativo,True,OpenStreetMap
-osm_4983903830,posto Jacarezinho 2,-18.4495282,-50.4452577,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,posto Jacarezinho 2,Não Informado,Ativo,True,OpenStreetMap
-osm_4983903832,posto Lucas,-18.4483128,-50.439158,Avenida Leocádio de Souza Reis,Quirinópolis,GO,Não Informado,Não Informada,posto Lucas,Não Informado,Ativo,True,OpenStreetMap
-osm_4983904030,POSTO SAO JUDAS TADEU 1,-18.4523005,-50.4498137,Avenida José Quintiliano Leão,Quirinópolis,GO,Não Informado,Não Informada,POSTO SAO JUDAS TADEU 1,Não Informado,Ativo,True,OpenStreetMap
+osm_4978088229,Ipiranga Chammas,-23.1974233,-49.7563619,Rua Coronel Emílio Gomes,Ribeirão Claro,PR,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4978121522,Posto Combustível Chammas,-23.191972,-49.7573221,Rua Coronel Emílio Gomes,Ribeirão Claro,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903821,posto Zrma,-18.4559961,-50.4536279,Avenida Dom Pedro I,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903826,posto Jacarezinho,-18.4465348,-50.4570783,Avenida Lázaro Xavier,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903827,posto Central,-18.4478733,-50.4555572,Avenida Brasil,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903829,posto varejão,-18.449399,-50.4475032,Rua Pastor Zetil,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903830,posto Jacarezinho 2,-18.4495282,-50.4452577,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903832,posto Lucas,-18.4483128,-50.439158,Avenida Leocádio de Souza Reis,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983904030,POSTO SAO JUDAS TADEU 1,-18.4523005,-50.4498137,Avenida José Quintiliano Leão,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4983904321,Eletroposto Independente,-18.4494216,-50.4521335,Avenida Don Pedro I,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4983904322,BANDEIRA BRANCA,-18.4499427,-50.4442872,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,BANDEIRA BRANCA,Não Informado,Ativo,True,OpenStreetMap
+osm_4983904322,BANDEIRA BRANCA,-18.4499427,-50.4442872,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4983946329,Eletroposto Independente,-18.4479987,-50.4495245,Avenida Fabio Garcia,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_4983960826,Eletroposto Independente,-18.448398,-50.4482816,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_4990278821,Posto JB II,-8.8826158,-36.4781466,Avenida Rui Barbosa,Garanhuns,PE,Não Informado,Não Informada,Posto JB II,Não Informado,Ativo,True,OpenStreetMap
-osm_4998875823,Petrobras - Posto Luma,-19.7685873,-44.0922267,Rua José Pedro Pereira,Ribeirão das Neves,MG,Não Informado,Não Informada,Petrobras - Posto Luma,Não Informado,Ativo,True,OpenStreetMap
+osm_4990278821,Posto JB II,-8.8826158,-36.4781466,Avenida Rui Barbosa,Garanhuns,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4998875823,Petrobras - Posto Luma,-19.7685873,-44.0922267,Rua José Pedro Pereira,Ribeirão das Neves,MG,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_5000975722,Petrobras,-25.4189072,-49.9969186,Rua Moisés Marcondes,Palmeira,PR,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
-osm_5015597421,Shell,-12.1475309,-44.9943831,Avenida Antônio Carlos Magalhães,Barreiras,BA,Não Informado,Não Informada,Shell,Não Informado,Ativo,True,OpenStreetMap
-osm_5038970021,Petrobras Belvedere (podium),-21.2303082,-43.7898943,Avenida Orozimbo Paulucci,Barbacena,MG,Não Informado,Não Informada,Petrobras Belvedere (podium),Não Informado,Ativo,True,OpenStreetMap
+osm_5015597421,Shell,-12.1475309,-44.9943831,Avenida Antônio Carlos Magalhães,Barreiras,BA,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,OpenStreetMap
+osm_5038970021,Petrobras Belvedere (podium),-21.2303082,-43.7898943,Avenida Orozimbo Paulucci,Barbacena,MG,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_5148630023,Ellca,-1.4650827,-48.4937825,Travessa Honório José dos Santos,Belém,PA,Não Informado,Não Informada,Ellca,Não Informado,Ativo,True,OpenStreetMap
 osm_5231546821,Cigas Companhia de Gas do Amazonas,-3.0567684,-60.0250796,Avenida Torquato Tapajós,Manaus,AM,Não Informado,Não Informada,Cigas Companhia de Gas do Amazonas,Não Informado,Ativo,True,OpenStreetMap
-osm_5261182014,Posto BR,-1.3755333,-48.4149001,Condominio Ametista,Ananindeua,PA,Não Informado,Não Informada,Posto BR,Não Informado,Ativo,True,OpenStreetMap
+osm_5261182014,Posto BR,-1.3755333,-48.4149001,Condominio Ametista,Ananindeua,PA,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_5350108821,Barreiras 2 (São Pedro),-12.1741062,-44.8106133,Rodovia Milton Santos,Barreiras,BA,Não Informado,Não Informada,Barreiras 2 (São Pedro),Não Informado,Ativo,True,OpenStreetMap
 osm_5649812371,Assai Vila Guilherme,-23.5220436,-46.6017625,"Avenida Morvan Dias de Figueiredo (Local), 3231",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_6302105785,Usina hidrelétrica Salto do Vau,-26.035058,-51.1920765,PR-447,União da Vitória,PR,Não Informado,Não Informada,Usina hidrelétrica Salto do Vau,Não Informado,Ativo,True,OpenStreetMap
@@ -114,14 +114,14 @@ osm_6757448841,EDP,-20.3145983,-40.2905974,Rua Florentino Faller,Vitória,ES,Nã
 osm_6852378964,Posto de Carregamento EDP,-20.2805718,-40.2880122,Avenida Dante Michelini,Vitória,ES,Não Informado,Não Informada,EDP,no,Ativo,True,OpenStreetMap
 osm_7031910085,Marconi,-5.7252194,-35.2636748,Rua Norte da Colina,Natal,RN,Não Informado,Não Informada,Marconi,Não Informado,Ativo,True,OpenStreetMap
 osm_7052772385,Eletroposto Independente,-30.1958095,-50.6568395,Estrada Dinarte da Silva Bueno,Viamão,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_7098550069,ABB BRasil,-23.5015679,-46.733278,Avenida do Anastácio,São Paulo,SP,Não Informado,Não Informada,ABB BRasil,no,Ativo,True,OpenStreetMap
+osm_7098550069,ABB BRasil,-23.5015679,-46.733278,Avenida do Anastácio,São Paulo,SP,Não Informado,Não Informada,ABB,no,Ativo,True,OpenStreetMap
 osm_7174911428,Eletrovia Paranaense,-25.4593899,-51.9513483,BR-277;BR-373,Candói,PR,"Type 2, CHAdeMO",Não Informada,Copel,no,Ativo,True,OpenStreetMap
-osm_8122125803,Parceria Solar,-29.6892348,-53.7930779,Avenida Nossa Senhora das Dores,Santa Maria,RS,Não Informado,Não Informada,Parceria Solar,no,Ativo,True,OpenStreetMap
-osm_8793186704,Estação de Carregamento de Carros Elétricos ou Híbridos,-27.0703977,-52.626905,Avenida Fernando Machado - D,Chapecó,SC,Não Informado,Não Informada,Pátio Shopping,Não Informado,Ativo,True,OpenStreetMap
+osm_8122125803,Parceria Solar,-29.6892348,-53.7930779,Avenida Nossa Senhora das Dores,Santa Maria,RS,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_8793186704,Estação de Carregamento de Carros Elétricos ou Híbridos,-27.0703977,-52.626905,Avenida Fernando Machado - D,Chapecó,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_8843546330,Eletroposto Independente,-27.7940994,-50.2838641,Rodovia Ulysses Guimarães,Lages,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_9136401881,Blumenau Norte Shopping,-26.8636876,-49.0934814,"Rodovia Ingo Hering, 3000",Blumenau,SC,Type 2,Não Informada,Blumenau Norte Shopping,no,Ativo,True,OpenStreetMap
-osm_9136401882,Shopping Neumarkt,-26.92017,-49.0698469,"Rua 7 de Setembro, 1213",Blumenau,SC,Type 2,Não Informada,Shopping Neumarkt,no,Ativo,True,OpenStreetMap
-osm_9225529282,Eletroposto Volvo,-29.2681815,-50.3026039,Rua das Tainhas,Cambará do Sul,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9136401881,Blumenau Norte Shopping,-26.8636876,-49.0934814,"Rodovia Ingo Hering, 3000",Blumenau,SC,Type 2,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_9136401882,Shopping Neumarkt,-26.92017,-49.0698469,"Rua 7 de Setembro, 1213",Blumenau,SC,Type 2,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_9225529282,Eletroposto Volvo,-29.2681815,-50.3026039,Rua das Tainhas,Cambará do Sul,RS,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,OpenStreetMap
 osm_9377925973,Eletroposto Independente,-5.8514428,-35.2058373,Avenida Ayrton Senna,Natal,RN,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_9377925974,Eletroposto Independente,-5.8514459,-35.2058255,Avenida Ayrton Senna,Natal,RN,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_9480171164,Plaza,-8.0362673,-34.9129013,Rua Doutor João Santos Filho,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
@@ -137,7 +137,7 @@ osm_9480171173,Posto Pichilau,-8.1771812,-34.9494398,Rodovia Governador Mário C
 osm_9480171174,Aeroporto dos Guararapes,-8.1309349,-34.9169529,Praça Ministro Salgado Filho,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_9480171175,Ferreira Costa,-8.112029,-34.9118505,"Acesso a Ferreira Costa Home Center, 2967",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_9480171176,Deskontão,-8.1142535,-34.9122194,Avenida Marechal Mascarenhas de Moraes,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_9480171177,Rota Premium - Volvo,-8.1103704,-34.9104835,Rua Joaquim Bandeira,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171177,Rota Premium - Volvo,-8.1103704,-34.9104835,Rua Joaquim Bandeira,Recife,PE,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,OpenStreetMap
 osm_9480171178,Jac,-8.1004388,-34.9099466,Avenida Marechal Mascarenhas de Moraes,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_9480171179,Camará Shopping,-8.0154427,-34.9777858,"Rua Manoel Honorato da Costa, 555",Camaragibe,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_9480171180,Shopping Patteo,-7.9935884,-34.8403285,Rua Doutor Eduardo de Morais,Olinda,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
@@ -168,7 +168,7 @@ osm_10242331797,Estação de carregamento de veículos elétricos,-31.3356719,-5
 osm_10602948115,Eletroposto Volvo,-15.5921419,-56.1062974,Avenida Isaac Póvoas,Cuiabá,MT,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
 osm_10607159268,Eletroposto,-30.9832749,-54.6765582,Avenida Júlio de Castilhos,Dom Pedrito,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_10689741126,Audi,-15.6116207,-56.0769117,Rua 31 de Março,Cuiabá,MT,Não Informado,Não Informada,Audi,no,Ativo,True,OpenStreetMap
-osm_10692094359,Restaurante Cansian Zamban,-27.8150697,-50.3248606,Rua Frei Rogério,Lages,SC,Não Informado,Não Informada,Restaurante Cansian Zamban,Não Informado,Ativo,True,OpenStreetMap
+osm_10692094359,Restaurante Cansian Zamban,-27.8150697,-50.3248606,Rua Frei Rogério,Lages,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_10693428105,Renault,-3.8470609,-32.414057,Rodovia Miguel Arraes de Alencar,Vila Floresta Velha,PE,Não Informado,Não Informada,Renault,Não Informado,Ativo,True,OpenStreetMap
 osm_10731730843,BMW,-15.6118861,-56.0766532,Rua 31 de Março,Cuiabá,MT,Não Informado,Não Informada,BMW,Não Informado,Ativo,True,OpenStreetMap
 osm_10738040107,Eletroposto Independente,1.9362224,-60.5940476,Rodovia 432 - Boa Vista,Cantá,RR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
@@ -181,11 +181,11 @@ osm_10964777724,Eletroposto Itaipu,-15.796732,-47.8679936,N1,Brasília,DF,Não I
 osm_10970973175,Eletroposto Independente,-25.4360275,-49.2570994,Avenida Presidente Affonso Camargo,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_10970973176,Eletroposto Independente,-25.4360729,-49.2571122,Avenida Presidente Affonso Camargo,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_10991138819,Cofesa Max,-23.5804177,-48.029594,"Avenida Doutor José de Almeida Carvalho, 1000",Itapetininga,SP,Não Informado,Não Informada,Cofesa Max,yes,Ativo,True,OpenStreetMap
-osm_11040399357,incharge,-19.7659193,-47.9511737,"Avenida Santa Beatriz da Silva, 1501",Uberaba,MG,Não Informado,Não Informada,incharge,Não Informado,Ativo,True,OpenStreetMap
+osm_11040399357,incharge,-19.7659193,-47.9511737,"Avenida Santa Beatriz da Silva, 1501",Uberaba,MG,Não Informado,Não Informada,Incharge,Não Informado,Ativo,True,OpenStreetMap
 osm_11047084703,Eletroposto Independente,-2.4996608,-44.3093862,Avenida Doutor Jackson Kepler Lago,São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11047084704,Eletroposto Independente,-2.5094902,-44.2425175,Empório Fribal,São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11047095114,Eletroposto Independente,-2.5274601,-44.2555793,"Avenida Daniel de La Touche, 987",São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_11056667405,Zaitt 24h,-16.3321005,-48.9379945,Avenida Santos Dumont,Anápolis,GO,Não Informado,Não Informada,automático,Não Informado,Ativo,True,OpenStreetMap
+osm_11056667405,Zaitt 24h,-16.3321005,-48.9379945,Avenida Santos Dumont,Anápolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11099953638,Ferreira Costa,-8.0305727,-34.9027206,Rua Curaça,Recife,PE,Não Informado,Não Informada,Ferreira Costa,Não Informado,Ativo,True,OpenStreetMap
 osm_11159495258,Eletroposto,-23.2769738,-45.8450227,Rodovia Governador Carvalho Pinto,São José dos Campos,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11173226868,Eletroposto Independente,-21.9082817,-48.052922,Rodovia Washington Luís,Ibaté,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
@@ -196,7 +196,7 @@ osm_11269493456,Eletroposto Volvo,-15.592589,-56.1061185,"Avenida Isaac Póvoas,
 osm_11291548116,Eletroposto Petrobras,-17.0172536,-39.5426917,Rua Buerarema,Itamaraju,BA,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_11371485834,Rancho Empyreo,-22.2356973,-47.3905387,Rodovia Anhanguera,Leme,SP,Type 2,Não Informada,Zletric,yes,Ativo,True,OpenStreetMap
 osm_11373288894,Eletroposto Independente,-15.5895041,-56.0844744,Rua F,Cuiabá,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_11384376944,Eletroposto POSTO SÃO JUDAS TADEU 2,-18.4473108,-50.4478369,Avenida Frei João Batista,Quirinópolis,GO,Não Informado,Não Informada,POSTO SÃO JUDAS TADEU 2,Não Informado,Ativo,True,OpenStreetMap
+osm_11384376944,Eletroposto POSTO SÃO JUDAS TADEU 2,-18.4473108,-50.4478369,Avenida Frei João Batista,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11407439656,Eletroposto Independente,-3.7248111,-38.5030188,Praça Doutor Antônio Prudente,Fortaleza,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
 osm_11423691566,Dr. Energia,-22.9366901,-43.062011,Estrada Francisco da Cruz Nunes,Niterói,RJ,Não Informado,Não Informada,Dr. Energia,yes,Ativo,True,OpenStreetMap
 osm_11509303840,CPFL,-22.8159597,-47.0725375,Avenida Érico Veríssimo,Campinas,SP,Não Informado,Não Informada,CPFL,Não Informado,Ativo,True,OpenStreetMap
@@ -205,13 +205,13 @@ osm_11509303842,CPFL,-22.8846111,-47.0078098,Avenida Isaura Roque Quércia,Campi
 osm_11512434387,Ostradamus,-27.7201556,-48.5635222,Rua Alberto Cavalheiro,Florianópolis,SC,Não Informado,Não Informada,Ostradamus,yes,Ativo,True,OpenStreetMap
 osm_11524381332,Eletroposto Independente,-3.8496665,-32.4256793,Rua Eurico Cavalcanti de Albuquerque,Fernando de Noronha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11524381344,Eletroposto Independente,-3.8351549,-32.4005121,BR-363,Fernando de Noronha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_11569158498,Eletroposto BR Super Carga,-3.7064793,-40.3369466,"Avenida Senador Fernandes Távora, 1182",Sobral,CE,Não Informado,Não Informada,BR Super Carga,yes,Ativo,True,OpenStreetMap
+osm_11569158498,Eletroposto BR Super Carga,-3.7064793,-40.3369466,"Avenida Senador Fernandes Távora, 1182",Sobral,CE,Não Informado,Não Informada,Petrobras,yes,Ativo,True,OpenStreetMap
 osm_11766684441,Eletroposto Independente,-22.8532612,-45.2341682,Avenida Getúlio Vargas,Aparecida,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11766684442,Eletroposto Independente,-22.8528905,-45.2344847,Arcada Sul,Aparecida,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11769426400,Eletroposto Independente,-23.0233484,-45.5817961,"Rua Francisco da Rocha, 1700",Taubaté,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_11822399303,Eletroposto Independente,-15.5852875,-56.0781292,Avenida Senegal,Cuiabá,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_12030154393,Auto Posto Pomerode,-26.7346049,-49.1747571,"Rua Hermann Weege, 523",Pomerode,SC,Type 2,Não Informada,Auto Posto Pomerode,Não Informado,Ativo,True,OpenStreetMap
-osm_12098687902,Restaurante Wunderwald,-26.8052885,-49.1655732,Rua XV de Novembro,Pomerode,SC,Type 2,Não Informada,Restaurante Wunderwald,Não Informado,Ativo,True,OpenStreetMap
+osm_12030154393,Auto Posto Pomerode,-26.7346049,-49.1747571,"Rua Hermann Weege, 523",Pomerode,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12098687902,Restaurante Wunderwald,-26.8052885,-49.1655732,Rua XV de Novembro,Pomerode,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_12183014713,GWM Canopus,-15.6046755,-56.0842495,Avenida Fernando Corrêa da Costa,Cuiabá,MT,Não Informado,Não Informada,GWM,Não Informado,Ativo,True,OpenStreetMap
 osm_12190026409,ChargePoint,-23.524961,-46.6670982,Rua Jornalista Aloysio Biondi,São Paulo,SP,Não Informado,Não Informada,ChargePoint,Não Informado,Ativo,True,OpenStreetMap
 osm_12254080440,Eletroposto Independente,-26.914711,-49.0696802,Rua São Paulo,Blumenau,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
@@ -223,7 +223,7 @@ osm_12474324132,Eletroposto Independente,-23.5179967,-46.7270876,Avenida Ernesto
 osm_12482436120,Fazzenda Park Resort,-26.9809194,-48.9284431,Rua João Mathias Zimmermann,Gaspar,SC,Type 2,Não Informada,Fazzenda Park Resort,Não Informado,Ativo,True,OpenStreetMap
 osm_12498963601,A02097 TRAFO TRI-F  FLR-01F2,-7.7831428,-38.0233385,BR-426;PE-337,Triunfo,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_12511152974,Estação de recarga de veículos elétricos,-20.3894819,-40.494529,Avenida Florentino Avidos,Viana,ES,Não Informado,Não Informada,EDP,yes,Ativo,True,OpenStreetMap
-osm_12650382737,ChargePoint,-25.426782,-49.3084772,Alameda Ecológica Burle Marx,Curitiba,PR,Não Informado,Não Informada,Curitiba e Copel,yes,Ativo,True,OpenStreetMap
+osm_12650382737,ChargePoint,-25.426782,-49.3084772,Alameda Ecológica Burle Marx,Curitiba,PR,Não Informado,Não Informada,Copel,yes,Ativo,True,OpenStreetMap
 osm_12660530308,Eletroposto Independente,-16.7095533,-49.2213754,Avenida Alphaville Flamboyant,Goiânia,GO,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
 osm_12741512739,Eletroposto BYD,-22.4210617,-44.3051398,"Avenida Fernando Bernadelli, 1219B",Porto Real,RJ,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,OpenStreetMap
 osm_12741512740,Eletroposto Graal Embaixador - DC - 120kw,-22.454522,-44.3894839,Rodovia Presidente Dutra,Resende,RJ,Não Informado,Não Informada,Eletrograal,yes,Ativo,True,OpenStreetMap
@@ -234,11 +234,11 @@ osm_12741539018,Eletroposto Graal Itatiaia DC - 120kw,-22.4843871,-44.5473597,Ro
 osm_12748215721,Eletroposto Independente,-22.8702082,-42.3313273,Rua Costa Rica,Araruama,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_12748227923,Eletroposto Independente,-22.8702544,-42.3310323,Rua Costa Rica,Araruama,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_12829452596,Eletroposto Independente,-29.3609372,-50.8531997,Avenida das Hortênsias,Gramado,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_12909344207,Itapê Shopping,-23.5778329,-48.0387729,"Rua Doutor Coutinho, 733",Itapetininga,SP,Não Informado,Não Informada,Itapê Shopping,yes,Ativo,True,OpenStreetMap
+osm_12909344207,Itapê Shopping,-23.5778329,-48.0387729,"Rua Doutor Coutinho, 733",Itapetininga,SP,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
 osm_12909344208,Eletroposto Cervejaria RT166,-23.6091247,-48.0621767,Avenida Cinco de Novembro,Itapetininga,SP,Não Informado,Não Informada,Cervejaria RT166,Não Informado,Ativo,True,OpenStreetMap
-osm_12909344209,Maggi BYD,-23.5792606,-48.0294775,Avenida Doutor José de Almeida Carvalho,Itapetininga,SP,Não Informado,Não Informada,Maggi BYD,yes,Ativo,True,OpenStreetMap
-osm_12909344218,Hotel Universitário,-23.5903158,-48.0493273,Rua General Glicério,Itapetininga,SP,Não Informado,Não Informada,Hotel Universitário,Não Informado,Ativo,True,OpenStreetMap
-osm_13043895695,Shopping Park Europeu,-26.8862704,-49.068608,"Via Expressa Paul Fritz Kuehnrich, 1600",Blumenau,SC,Type 2,Não Informada,Shopping Park Europeu,Não Informado,Ativo,True,OpenStreetMap
+osm_12909344209,Maggi BYD,-23.5792606,-48.0294775,Avenida Doutor José de Almeida Carvalho,Itapetininga,SP,Não Informado,Não Informada,BYD,yes,Ativo,True,OpenStreetMap
+osm_12909344218,Hotel Universitário,-23.5903158,-48.0493273,Rua General Glicério,Itapetininga,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13043895695,Shopping Park Europeu,-26.8862704,-49.068608,"Via Expressa Paul Fritz Kuehnrich, 1600",Blumenau,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13064569852,Solar Pro Engenharia,-26.7187095,-49.1664506,Rua Criciúma,Pomerode,SC,Type 2,Não Informada,Solar Pro Engenharia,no,Ativo,True,OpenStreetMap
 osm_13064664032,Eletroposto Independente,-26.7064365,-49.1622908,"Rua Presidente Costa e Silva, 740",Pomerode,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13075193628,Eletroposto Independente,-4.3545581,-39.310341,Rua João Pinto Damasceno,Canindé,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
@@ -248,23 +248,23 @@ osm_13104399059,Eletroposto Independente,-29.6733036,-51.1379515,"Avenida Naçõ
 osm_13106395232,Fort Atacadista,-29.6765674,-51.138982,Avenida Nações Unidas,Novo Hamburgo,RS,Não Informado,Não Informada,Fort Atacadista,no,Ativo,True,OpenStreetMap
 osm_13151253783,Eletroposto Independente,-22.7377256,-46.9267978,Avenida Doutor Jorge Duprat Figueiredo,Pedreira,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13165579454,Eletroposto Independente,-23.4709014,-47.4287262,"Rodovia Senador José Ermírio de Moraes, 1425",Sorocaba,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
-osm_13171219870,Auto Posto Martendal,-26.7123388,-48.9081503,"Rua Vereador Crisóstomo Gesser, 799",Luiz Alves,SC,Não Informado,Não Informada,Auto Posto Martendal,Não Informado,Ativo,True,OpenStreetMap
+osm_13171219870,Auto Posto Martendal,-26.7123388,-48.9081503,"Rua Vereador Crisóstomo Gesser, 799",Luiz Alves,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13189098501,Phone charging station,-23.5249094,-46.6675212,Rua Jornalista Aloysio Biondi,São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_13197897172,1,-23.5200258,-47.4640817,Rua José Maria Hannickel,Sorocaba,SP,Não Informado,Não Informada,1,no,Ativo,True,OpenStreetMap
+osm_13197897172,1,-23.5200258,-47.4640817,Rua José Maria Hannickel,Sorocaba,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
 osm_13207252416,Incharge,-22.8739268,-45.2651042,Rodovia Vereador Abel Fabrício Dias,Aparecida,SP,Não Informado,Não Informada,Incharge,Não Informado,Ativo,True,OpenStreetMap
 osm_13233697801,Phone charging station,-25.5205347,-54.5636522,Travessa Rodoviário Internacional,Foz do Iguaçu,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13233760901,Eletroposto Independente,-24.792224,-53.2889632,BR-369,Corbélia,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_13234904906,Chargeon Atacadão,-23.9816693,-46.2655753,"Rodovia Cônego Domênico Rangoni, 191",Guarujá,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13234904906,Chargeon Atacadão,-23.9816693,-46.2655753,"Rodovia Cônego Domênico Rangoni, 191",Guarujá,SP,Não Informado,Não Informada,ChargeOn,Não Informado,Ativo,True,OpenStreetMap
 osm_13234906108,Power2Go Hotel Ilhas da Grécia,-23.9898933,-46.2460784,"Rua Marivaldo Fernandes, 144",Guarujá,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13234906214,Moby - Recarga de veículos,-23.9941471,-46.2707017,"Avenida Primavera, 214",Guarujá,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_13235612198,Shell Recharge Solutions,-23.667906,-46.6780725,Rua José Homero Roxo,São Paulo,SP,Não Informado,Não Informada,Shell Recharge Solutions,Não Informado,Ativo,True,OpenStreetMap
+osm_13235612198,Shell Recharge Solutions,-23.667906,-46.6780725,Rua José Homero Roxo,São Paulo,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,OpenStreetMap
 osm_13271282349,Rissul,-29.6336509,-50.8355055,Rua Vera Cruz,Parobé,RS,Não Informado,Não Informada,Rissul,no,Ativo,True,OpenStreetMap
 osm_13274382551,Eletroposto BYD,-2.4278757,-54.7349356,Rodovia Santarém-Cuiabá,Santarém,PA,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,OpenStreetMap
 osm_13274423523,Eletroposto BYD,-2.4278199,-54.7349266,Rodovia Santarém-Cuiabá,Santarém,PA,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,OpenStreetMap
 osm_13296558941,Ecofortte Eletropostos - Mini Preço,-25.4915369,-49.2145927,Avenida Comendador Franco,Curitiba,PR,Não Informado,Não Informada,Ecofortte,yes,Ativo,True,OpenStreetMap
 osm_13331914228,EcoCarga,-8.1137005,-35.2418783,Rodovia Luiz Gonzaga,Vitória de Santo Antão,PE,Não Informado,Não Informada,EcoCarga,yes,Ativo,True,OpenStreetMap
 osm_13373116017,Shell Recharge,-26.9254072,-49.0571684,Rua 7 de Setembro,Blumenau,SC,Type 2,Não Informada,Shell Recharge,yes,Ativo,True,OpenStreetMap
-osm_13373615091,Eletroposto Joy Energy - Recife,-8.0867973,-34.8883314,Avenida República Árabe Unida,Recife,PE,Não Informado,Não Informada,Joy Energy - Recife,yes,Ativo,True,OpenStreetMap
+osm_13373615091,Eletroposto Joy Energy - Recife,-8.0867973,-34.8883314,Avenida República Árabe Unida,Recife,PE,Não Informado,Não Informada,Joy Energy,yes,Ativo,True,OpenStreetMap
 osm_13376864808,Eletroposto Greiner,-29.3230303,-49.7268848,Rua Jovelino Martins de Souza,Passo de Torres,SC,Não Informado,Não Informada,Greiner,Não Informado,Ativo,True,OpenStreetMap
 osm_13376876732,Eletroposto Greiner,-29.3230303,-49.7268848,Rua Jovelino Martins de Souza,Passo de Torres,SC,Não Informado,Não Informada,Greiner,Não Informado,Ativo,True,OpenStreetMap
 osm_13381987589,Eletroposto Independente,-10.438752,-45.1729123,Rua José Pacheco Cavalcante,Corrente,PI,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
@@ -279,15 +279,15 @@ osm_13512340416,Eletroposto,-29.8994221,-50.2766186,"ERS-030A, 974",Osório,RS,N
 osm_13518459470,Eletroposto,-29.3309725,-49.7848597,Rodovia Governador Mário Covas,Torres,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13527722466,Eletroposto Nobile Suítes Uberlândia,-18.9176184,-48.2648381,Rua Vitalino Rezende do Carmo,Uberlândia,MG,Não Informado,7 kW,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13568352401,Eletroposto Independente,-15.8470974,-47.8929176,QI 5,Lago Sul,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_13585736682,Via Porto BYD,-29.903374,-50.2724305,Rua Tiradentes,Osório,RS,Não Informado,Não Informada,Via Porto BYD,no,Ativo,True,OpenStreetMap
+osm_13585736682,Via Porto BYD,-29.903374,-50.2724305,Rua Tiradentes,Osório,RS,Não Informado,Não Informada,BYD,no,Ativo,True,OpenStreetMap
 osm_13592371235,Eletroposto Independente,-23.5359326,-47.0924331,Rua Paulo Arnaldo Pereira Leite,São Roque,SP,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13593234318,Sim,-29.9443733,-50.9475762,Freeway,Gravataí,RS,Não Informado,Não Informada,Sim,no,Ativo,True,OpenStreetMap
 osm_13593487658,Eletroposto Independente,-27.0977851,-52.6444943,Avenida São Pedro - E,Chapecó,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_13633308072,Eletroposto,-23.0008304,-43.3516362,Rua Maria Philomena Lages,Rio de Janeiro,RJ,Não Informado,Não Informada,BR,yes,Ativo,True,OpenStreetMap
+osm_13633308072,Eletroposto,-23.0008304,-43.3516362,Rua Maria Philomena Lages,Rio de Janeiro,RJ,Não Informado,Não Informada,Petrobras,yes,Ativo,True,OpenStreetMap
 osm_13685153892,Eletroposto Independente,-13.0046089,-41.369063,Rua José Luiz Gama,Mucugê,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_13692209781,BR Super Carga - Muda Hotel,-3.738329,-40.9937507,Rua Prefeito Cirilo Coelho Moita,Tianguá,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
-osm_13692209786,Planeta Charge - Supermercado Nidobox,-3.7629511,-38.5457294,"Rua Queirós Ribeiro, 485",Fortaleza,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
-osm_13692216876,BR Super Carga - Rest. Raizes do Litoral,-3.4653031,-39.1592498,Rota do Sol Poente,Paraipaba,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13692209781,BR Super Carga - Muda Hotel,-3.738329,-40.9937507,Rua Prefeito Cirilo Coelho Moita,Tianguá,CE,Não Informado,Não Informada,Petrobras,yes,Ativo,True,OpenStreetMap
+osm_13692209786,Planeta Charge - Supermercado Nidobox,-3.7629511,-38.5457294,"Rua Queirós Ribeiro, 485",Fortaleza,CE,Não Informado,Não Informada,Planeta Charge,yes,Ativo,True,OpenStreetMap
+osm_13692216876,BR Super Carga - Rest. Raizes do Litoral,-3.4653031,-39.1592498,Rota do Sol Poente,Paraipaba,CE,Não Informado,Não Informada,Petrobras,yes,Ativo,True,OpenStreetMap
 osm_13692216877,Voltz - Paraipaba,-3.4649149,-39.1551018,Rota do Sol Poente,Paraipaba,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
 osm_13692235370,VOLTZ DC - Cometa Maraponga,-3.7920621,-38.5672742,"Avenida Godofredo Maciel, 1945",Maraponga,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
 osm_13692236135,Voltz - Cometa Kennedy,-3.7298337,-38.5688567,Avenida Governador Parsifal Barroso,Fortaleza,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
@@ -307,15 +307,15 @@ osm_13863616366,Eletroposto Independente,-15.8830555,-47.8216895,Ciclovia Estrad
 osm_13927611655,Elétrica Area,-23.5334013,-47.4656809,Avenida Professora Izoraida Marques Peres,Sorocaba,SP,Não Informado,Não Informada,Elétrica Area,no,Ativo,True,OpenStreetMap
 osm_13927611656,Eletroposto Independente,-23.5396613,-47.467284,Rua Antonio Perez Hernandez,Sorocaba,SP,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
 osm_13927611657,Volvo,-23.4813792,-47.4209347,Avenida Engenheiro Carlos Reinaldo Mendes,Sorocaba,SP,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
-osm_13927611658,Padaria Real,-23.4809832,-47.420404,"Avenida Engenheiro Carlos Reinaldo Mendes, 2650",Sorocaba,SP,Não Informado,Não Informada,Padaria Real,no,Ativo,True,OpenStreetMap
-osm_13927611671,Hospital Doutor Miguel Soeiro,-23.5321068,-47.4961012,Rua Antonia Dias Petri,Sorocaba,SP,Não Informado,Não Informada,Hospital Doutor Miguel Soeiro,no,Ativo,True,OpenStreetMap
+osm_13927611658,Padaria Real,-23.4809832,-47.420404,"Avenida Engenheiro Carlos Reinaldo Mendes, 2650",Sorocaba,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_13927611671,Hospital Doutor Miguel Soeiro,-23.5321068,-47.4961012,Rua Antonia Dias Petri,Sorocaba,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
 osm_13974291807,Eletroposto Independente,-12.9968048,-38.4440207,Avenida Octávio Mangabeira,Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_13974293919,Eletroposto Independente,-12.981747,-38.449861,Avenida Tancredo Neves,Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
-osm_371432992,Go Eletric,-23.5684088,-46.6117302,"Avenida Dom Pedro I, 360",São Paulo,SP,Não Informado,Não Informada,Go Eletric,yes,Ativo,True,OpenStreetMap
-osm_684814865,Enel,-22.7996977,-42.9823641,Rua Gil Vicente,Santa Luzia,RJ,Não Informado,Não Informada,Enel,Não Informado,Ativo,True,OpenStreetMap
-osm_804451196,Posto BR São Lucas,-3.0923667,-59.987901,"Avenida Cosme Ferreira, 130",Manaus,AM,Não Informado,Não Informada,Tipo 1 (SAE J1772),no,Ativo,True,OpenStreetMap
+osm_371432992,Go Eletric,-23.5684088,-46.6117302,"Avenida Dom Pedro I, 360",São Paulo,SP,Não Informado,Não Informada,Go Electric,yes,Ativo,True,OpenStreetMap
+osm_684814865,Enel,-22.7996977,-42.9823641,Rua Gil Vicente,Santa Luzia,RJ,Não Informado,Não Informada,Enel X,Não Informado,Ativo,True,OpenStreetMap
+osm_804451196,Posto BR São Lucas,-3.0923667,-59.987901,"Avenida Cosme Ferreira, 130",Manaus,AM,Não Informado,Não Informada,Petrobras,no,Ativo,True,OpenStreetMap
 osm_908604269,Go Electric,-23.4826403,-47.4394111,Avenida Pereira da Silva,Sorocaba,SP,Não Informado,Não Informada,Go Electric,yes,Ativo,True,OpenStreetMap
-osm_909127223,Enel,-23.5485132,-46.7359186,"Avenida Marechal Mário Guedes, 292",São Paulo,SP,Não Informado,Não Informada,Enel,Não Informado,Ativo,True,OpenStreetMap
+osm_909127223,Enel,-23.5485132,-46.7359186,"Avenida Marechal Mário Guedes, 292",São Paulo,SP,Não Informado,Não Informada,Enel X,Não Informado,Ativo,True,OpenStreetMap
 osm_1023718704,Eletroposto Independente,-8.0376808,-34.8988211,Avenida Santos Dumont,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1045130108,UFSC,-27.6020001,-48.5202856,Rua Engenheiro Agrônomo Andrey Cristian Ferreira,Florianópolis,SC,Não Informado,Não Informada,UFSC,Não Informado,Ativo,True,OpenStreetMap
 osm_1045130109,Fundação CERTI,-27.6020949,-48.5190258,Rua Engenheiro Agrônomo Andrey Cristian Ferreira,Florianópolis,SC,Não Informado,Não Informada,Fundação CERTI,Não Informado,Ativo,True,OpenStreetMap
@@ -328,15 +328,15 @@ osm_1249452241,Eletroposto Independente,-25.4184557,-50.7609033,BR-277,Irati,PR,
 osm_1306587187,Eletroposto Independente,-25.4292255,-49.2797971,"Rua Visconde de Nacar, 716",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1329773740,EvoltBR,-23.6189051,-46.602188,Rua Vergueiro,São Paulo,SP,Não Informado,Não Informada,EvoltBR,yes,Ativo,True,OpenStreetMap
 osm_1340138202,Eletroposto,-20.5026955,-54.6143561,Rua UFMS,Campo Grande,MS,Não Informado,Não Informada,UFMS,no,Ativo,True,OpenStreetMap
-osm_1349984736,BR Properties,-23.6083194,-46.6964068,Rua Hans Oersted,São Paulo,SP,Type 2,Não Informada,BR Properties,Não Informado,Ativo,True,OpenStreetMap
+osm_1349984736,BR Properties,-23.6083194,-46.6964068,Rua Hans Oersted,São Paulo,SP,Type 2,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
 osm_1364932977,Eletroposto Independente,-23.4691413,-46.4091543,Rodovia Ayrton Senna,Guarulhos,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1373715702,Eletroposto Volvo,-5.5870973,-36.9497804,Avenida Poeta Renato Caldas,Assu,RN,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
 osm_1375420516,Eletroposto Independente,-19.959278,-44.1915799,Via Monte Carmo Shopping,Betim,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1415079809,Eletroposto Independente,-23.5737453,-46.642004,Avenida Bernardino de Campos,São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1443051940,Eletroposto Independente,-9.3921314,-40.5250173,Avenida José Santana,Petrolina,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1455794765,Eletroposto,-30.4078417,-51.4539657,Rodovia General Bento Gonçalves,Barra do Ribeiro,RS,Não Informado,generator,Independente,yes,Ativo,True,OpenStreetMap
-osm_1499999686,Eletroposto Marzagão Caldas Novas | LOGI CHARGE,-17.9831712,-48.6375505,GO-139,Setor central,GO,Não Informado,Não Informada,Eletroposto Marzagão Caldas Novas | LOGI CHARGE,yes,Ativo,True,OpenStreetMap
-osm_1508000372,Eletroposto FastEV Charging Station,-23.2284616,-45.9127376,Avenida Cassiano Ricardo,São José dos Campos,SP,Não Informado,Não Informada,FastEV Charging Station,Não Informado,Ativo,True,OpenStreetMap
+osm_1499999686,Eletroposto Marzagão Caldas Novas | LOGI CHARGE,-17.9831712,-48.6375505,GO-139,Setor central,GO,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_1508000372,Eletroposto FastEV Charging Station,-23.2284616,-45.9127376,Avenida Cassiano Ricardo,São José dos Campos,SP,Não Informado,Não Informada,FastEV,Não Informado,Ativo,True,OpenStreetMap
 osm_1510270560,Eletroposto Evvo - Rodoferroviária,-25.4361001,-49.2548858,Avenida Presidente Affonso Camargo,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
 osm_1512166535,Eletroposto Rapidin Eletroposto,-3.7368436,-38.5075326,"Avenida Barão de Studart, 1480",Fortaleza,CE,Não Informado,Não Informada,Rapidin Eletroposto,Não Informado,Ativo,True,OpenStreetMap
 osm_1529278429,Eletroposto ChargeOn,-20.8330157,-49.3553198,Avenida Doutor Hubert Richard Pontes,São José do Rio Preto,SP,Não Informado,Não Informada,ChargeOn,yes,Ativo,True,OpenStreetMap

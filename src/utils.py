@@ -45,3 +45,96 @@ def parse_address_components(formatted_address: str) -> tuple[str, str]:
     except Exception:
         pass
     return "", ""
+
+def normalize_network_name(raw_name: str, station_name: str = "") -> str:
+    """
+    Normaliza o nome da rede operadora com base em regras e heurísticas de palavras-chave.
+    """
+    if not raw_name:
+        raw_name = ""
+    if not station_name:
+        station_name = ""
+        
+    name_to_check = f"{raw_name} {station_name}".lower()
+    
+    # Heurísticas de correspondência de palavras-chave (Redes Específicas primeiro)
+    if "tupinambá" in name_to_check or "tupinamba" in name_to_check:
+        return "Tupinambá"
+    if "shell" in name_to_check or "chell" in name_to_check:
+        return "Shell Recharge"
+    if "raízen" in name_to_check or "raizen" in name_to_check:
+        return "Raízen Power"
+    if "volvo" in name_to_check:
+        return "Volvo"
+    if "byd" in name_to_check:
+        return "BYD"
+    if "ipiranga" in name_to_check or "ipiringa" in name_to_check:
+        return "Ipiranga"
+    if "weg" in name_to_check:
+        return "WEG"
+    if "porsche" in name_to_check:
+        return "Porsche"
+    if "bmw" in name_to_check:
+        return "BMW"
+    if "edp" in name_to_check:
+        return "EDP"
+    if "zletric" in name_to_check:
+        return "Zletric"
+    if "neoenergia" in name_to_check:
+        return "Neoenergia"
+    if "enel" in name_to_check:
+        return "Enel X"
+    if "copel" in name_to_check:
+        return "Copel"
+    if "cpfl" in name_to_check:
+        return "CPFL"
+    if "taurus" in name_to_check:
+        return "Taurus"
+    if "gwm" in name_to_check:
+        return "GWM"
+    if "incharge" in name_to_check:
+        return "Incharge"
+    if "go electric" in name_to_check or "go eletric" in name_to_check:
+        return "Go Electric"
+    if "eletrograal" in name_to_check:
+        return "Eletrograal"
+    if "abb" in name_to_check:
+        return "ABB"
+    if "audi" in name_to_check:
+        return "Audi"
+    if "renault" in name_to_check:
+        return "Renault"
+    if "chargepoint" in name_to_check:
+        return "ChargePoint"
+    if "chargeon" in name_to_check:
+        return "ChargeOn"
+    if "fastev" in name_to_check:
+        return "FastEV"
+    if "planeta charge" in name_to_check:
+        return "Planeta Charge"
+    if "joy energy" in name_to_check:
+        return "Joy Energy"
+    if "ecocarga" in name_to_check:
+        return "EcoCarga"
+
+    # Tokenização inteligente para marcas genéricas/ambíguas como "BR" (Petrobras)
+    clean_text = name_to_check.replace("(", " ").replace(")", " ").replace("/", " ").replace("-", " ").replace(",", " ")
+    words = clean_text.split()
+    
+    if "petrobras" in words or "petrobrás" in words or "br" in words or "petrox" in words or "petrobras" in name_to_check or "petrobrás" in name_to_check:
+        return "Petrobras"
+        
+    # Limpezas genéricas
+    raw_cleaned = raw_name.strip()
+    if raw_cleaned in ["1", "automático", "tipo 1 (sae j1772)", "Bandeira Branca", "Bandeira branca", "BANDEIRA BRANCA", "Tipo 1 (SAE J1772)"]:
+        return "Independente"
+        
+    raw_lower = raw_cleaned.lower()
+    if any(k in raw_lower for k in ["auto posto", "posto ", "restaurante", "hotel", "balsa", "padaria", "hospital", "shopping", "patio", "parceria", "escola", "clube"]):
+        return "Independente"
+        
+    # Se for uma rede/empresa legítima de tamanho pequeno ou não mapeada, preservamos a capitalização limpa
+    if raw_cleaned and raw_cleaned != "None":
+        return raw_cleaned
+        
+    return "Independente"

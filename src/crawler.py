@@ -4,6 +4,7 @@ import csv
 import os
 import logging
 from config import CSV_PATH, CSV_HEADERS
+from utils import normalize_network_name
 
 logger = logging.getLogger(__name__)
 
@@ -89,7 +90,8 @@ def run_osm_crawler() -> int:
                     tipo_conector.append("Não Informado")
                     
                 potencia_kw = tags.get('power', 'Não Informada')
-                rede = tags.get('operator') or tags.get('brand') or "Independente"
+                raw_rede = tags.get('operator') or tags.get('brand') or "Independente"
+                rede = normalize_network_name(raw_rede, nome)
                 preco_recarga = tags.get('fee') or "Não Informado"
                 
                 # Escrever linha no formato padronizado
