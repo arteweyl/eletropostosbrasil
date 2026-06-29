@@ -100,14 +100,5 @@ python3 -m unittest tests/test_utils.py
 
 ---
 
-## 🚀 Integração e Deploy Contínuo (CI/CD)
 
-O repositório está equipado com um pipeline de automação via **GitHub Actions** configurado em [.github/workflows/ci_cd.yml](file:///mnt/c/Users/lcwey/eletropostos_brasil/.github/workflows/ci_cd.yml):
 
-*   **CI (Integração Contínua):** A cada *push* ou *pull request* para as branches `main` ou `master`, os testes unitários são executados automaticamente em um ambiente Ubuntu limpo.
-*   **CD (Deploy Contínuo):** Ao realizar um *push* na branch principal, caso os testes unitários passem, o pipeline:
-    1.  Compila os dados mais recentes do CSV consolidado para JavaScript.
-    2.  Separa e prepara apenas a pasta estática de produção (`index.html` e a pasta `data/`).
-    3.  Publica o painel de visualização atualizado diretamente no **GitHub Pages** do repositório.
-
-*Para ativá-lo, lembre-se de configurar o GitHub Pages nas configurações do seu repositório do GitHub (selecionando o deploy a partir do GitHub Actions).*
