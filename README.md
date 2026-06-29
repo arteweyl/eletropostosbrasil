@@ -25,6 +25,7 @@ Plataforma colaborativa e mapa interativo de postos de recarga elétrica para ve
 ├── run_etl.py                # Wrapper CLI central para executar o pipeline
 ├── run_dashboard.py          # Script para iniciar o servidor web local
 ├── PLANEJAMENTO.md           # Documento de planejamento e arquitetura do projeto
+├── requirements-dev.txt      # Dependências de desenvolvimento e teste (pytest)
 └── .gitignore                # Arquivos ignorados pelo Git
 ```
 
@@ -32,7 +33,13 @@ Plataforma colaborativa e mapa interativo de postos de recarga elétrica para ve
 
 ## ⚙️ Pré-requisitos
 
-Os scripts foram desenvolvidos utilizando apenas a **biblioteca padrão do Python 3.8+**, eliminando a necessidade de instalar dependências externas via `pip` (como `requests` ou `pandas`). 
+Os scripts do pipeline principal foram desenvolvidos utilizando apenas a **biblioteca padrão do Python 3.8+**, eliminando a necessidade de instalar dependências externas para execução.
+
+Para rodar a suíte de testes unitários (`pytest`), instale as dependências de desenvolvimento:
+
+```bash
+pip install -r requirements-dev.txt
+``` 
 
 ---
 
@@ -90,12 +97,12 @@ O script iniciará um servidor em `http://localhost:8001` e abrirá a página au
 
 ## 🧪 Testes Unitários
 
-Para garantir a confiabilidade dos cálculos geográficos, extração de endereços e regras de normalização de redes, o repositório possui uma suite de testes unitários escrita com o módulo padrão `unittest` do Python.
+Para garantir a confiabilidade dos cálculos geográficos, extração de endereços e regras de normalização de redes, o repositório possui uma suíte de testes unitários escrita com o **pytest**, o framework de testes mais moderno e adotado no ecossistema Python.
 
 Para rodar os testes a partir do diretório raiz do projeto:
 
 ```bash
-python3 -m unittest tests/test_utils.py
+pytest
 ```
 
 ---
