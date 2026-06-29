@@ -11,6 +11,7 @@ from crawler import run_osm_crawler
 from google_places_crawler import run_google_places_crawler
 from enrich_data import run_enrichment
 from compile_data import compile_csv_to_js
+from clean_data import clean_csv
 
 logger = logging.getLogger("run_etl")
 
@@ -38,6 +39,7 @@ Exemplos de uso:
     parser.add_argument("--osm", action="store_true", help="Executa o crawler do OpenStreetMap (Overpass API).")
     parser.add_argument("--google", action="store_true", help="Executa o crawler do Google Places (requer chave de API).")
     parser.add_argument("--enrich", action="store_true", help="Executa o enriquecimento de dados geográficos (Nominatim).")
+    parser.add_argument("--clean", action="store_true", help="Executa a normalização e limpeza dos nomes das redes operadoras no CSV.")
     parser.add_argument("--compile", action="store_true", help="Compila os dados consolidados do CSV para o JavaScript do painel.")
     parser.add_argument("--all", action="store_true", help="Executa todo o pipeline de dados de ponta a ponta na ordem correta.")
     parser.add_argument("--key", type=str, help="Chave da API Google Places (opcional, sobrescreve variável de ambiente).")
@@ -58,6 +60,7 @@ Exemplos de uso:
         if args.all:
             args.osm = True
             args.google = True
+            args.clean = True
             args.enrich = True
             args.compile = True
             
@@ -72,6 +75,12 @@ Exemplos de uso:
                 logger.error("Chave do Google Places não fornecida. Etapa pulada.")
             else:
                 run_google_places_crawler(api_key)
+                
+        if args.clean:
+            logger.info("Etapa de Limpeza: Rodando normalização e limpeza das redes...")
+            from config import CSV_PATH, OSM_CSV_PATH
+            clean_csv(CSV_PATH)
+            clean_csv(OSM_CSV_PATH)
                 
         if args.enrich:
             logger.info("Etapa 3: Executando enriquecimento de dados (Nominatim)...")
