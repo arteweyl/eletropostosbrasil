@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eletropostos Brasil - Dashboard</title>
+    
+    <!-- Google Fonts & FontAwesome -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Leaflet.js Map Library -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    
+    <style>
+        :root {
+            --bg-dark: #0b0f19;
+            --bg-card: #151d30;
+            --bg-input: #1d2942;
+            --border-color: #243557;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-green: #10b981;
+            --accent-blue: #3b82f6;
+            --radius: 12px;
+            --font-main: 'Inter', sans-serif;
+            --font-heading: 'Space Grotesk', sans-serif;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: var(--font-main);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header Style */
+        header {
+            background-color: var(--bg-card);
+            border-bottom: 1px solid var(--border-color);
+            padding: 16px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 70px;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo-icon {
+            background: linear-gradient(135deg, var(--accent-green), #059669);
+            width: 38px;
+            height: 38px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 20px;
+            box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+        }
+
+        .logo-title {
+            font-family: var(--font-heading);
+            font-size: 22px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            background: linear-gradient(to right, #ffffff, #94a3b8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .tagline {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .header-meta {
+            font-size: 13px;
+            color: var(--text-muted);
+            background-color: var(--bg-input);
+            padding: 6px 12px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+        }
+
+        .tab-switcher {
+            display: flex;
+            gap: 8px;
+        }
+
+        .tab-btn {
+            background-color: var(--bg-input);
+            border: 1px solid var(--border-color);
+            color: var(--text-muted);
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+            outline: none;
+        }
+
+        .tab-btn:hover {
+            border-color: var(--accent-green);
+            color: white;
+        }
+
+        .tab-btn.active {
+            background-color: var(--accent-green);
+            border-color: var(--accent-green);
+            color: white;
+            box-shadow: 0 0 10px rgba(16, 185, 129, 0.3);
+        }
+
+        /* Layout Container */
+        .dashboard-container {
+            display: flex;
+            flex: 1;
+            height: calc(100vh - 70px);
+            overflow: hidden;
+        }
+
+        /* Sidebar Style */
+        .sidebar {
+            width: 420px;
+            border-right: 1px solid var(--border-color);
+            background-color: var(--bg-card);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* KPI Panel */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            padding: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .kpi-card {
+            background-color: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            padding: 14px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .kpi-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: var(--text-muted);
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .kpi-header i {
+            color: var(--accent-green);
+        }
+
+        .kpi-value {
+            font-family: var(--font-heading);
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        .kpi-subtext {
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        /* Filters Section */
+        .filters-panel {
+            padding: 20px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .search-wrapper {
+            position: relative;
+        }
+
+        .search-wrapper i {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        .search-input {
+            width: 100%;
+            background-color: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 10px 12px 10px 38px;
+            color: white;
+            font-size: 13px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-input:focus {
+            border-color: var(--accent-green);
+        }
+
+        .select-row {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .select-wrapper select {
+            width: 100%;
+            background-color: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 9px 12px;
+            color: white;
+            font-size: 13px;
+            outline: none;
+            cursor: pointer;
+        }
+
+        /* Chargers List */
+        .chargers-list-wrapper {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px 20px;
+        }
+
+        .list-header {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-muted);
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .charger-card {
+            background-color: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            padding: 14px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .charger-card:hover {
+            border-color: var(--accent-green);
+            transform: translateY(-2px);
+            background-color: rgba(21, 29, 48, 0.8);
+        }
+
+        .charger-card.active {
+            border-color: var(--accent-green);
+            box-shadow: 0 0 10px rgba(16, 185, 129, 0.2);
+            background-color: rgba(16, 185, 129, 0.05);
+        }
+
+        .charger-title {
+            font-weight: 600;
+            font-size: 14px;
+            color: white;
+            margin-bottom: 6px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .charger-addr {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+
+        .charger-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .tag {
+            font-size: 10px;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+
+        .tag-conector {
+            background-color: rgba(59, 130, 246, 0.15);
+            color: #60a5fa;
+        }
+
+        .tag-potencia {
+            background-color: rgba(16, 185, 129, 0.15);
+            color: #34d399;
+        }
+
+        .tag-rede {
+            background-color: rgba(245, 158, 11, 0.15);
+            color: #fbbf24;
+        }
+
+        /* Map Container */
+        .map-wrapper {
+            flex: 1;
+            position: relative;
+            background-color: #121824;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+
+        /* Leaflet Popups Customization */
+        .leaflet-popup-content-wrapper {
+            background-color: var(--bg-card) !important;
+            color: var(--text-main) !important;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            font-family: var(--font-main);
+            padding: 6px;
+        }
+
+        .leaflet-popup-tip {
+            background-color: var(--bg-card) !important;
+            border: 1px solid var(--border-color);
+        }
+
+        .popup-title {
+            font-weight: 700;
+            font-family: var(--font-heading);
+            font-size: 15px;
+            color: white;
+            margin-bottom: 6px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 6px;
+        }
+
+        .popup-detail {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-bottom: 4px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .popup-detail i {
+            color: var(--accent-green);
+            width: 14px;
+        }
+
+        .popup-detail strong {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-area">
+            <div class="logo-icon">
+                <i class="fa-solid fa-bolt"></i>
+            </div>
+            <div>
+                <h1 class="logo-title">Eletropostos Brasil</h1>
+                <p class="tagline">Mapeamento e Captura de Eletropostos - Lookalike PlugShare</p>
+            </div>
+        </div>
+        <div class="tab-switcher">
+            <button id="btn-tab-map" class="tab-btn active"><i class="fa-solid fa-map-location-dot"></i> Visualização em Mapa</button>
+            <button id="btn-tab-table" class="tab-btn"><i class="fa-solid fa-table"></i> Tabela Geral</button>
+        </div>
+        <div class="header-meta">
+            <i class="fa-solid fa-database"></i> <strong>341</strong> postos coletados
+        </div>
+    </header>
+
+    <div class="dashboard-container">
+        <!-- Sidebar esquerda -->
+        <div class="sidebar">
+            <!-- KPIs do topo -->
+            <div class="kpi-grid">
+                <div class="kpi-card">
+                    <div class="kpi-header">
+                        <span>Total de Postos</span>
+                        <i class="fa-solid fa-charging-station"></i>
+                    </div>
+                    <span class="kpi-value" id="kpi-total">341</span>
+                    <span class="kpi-subtext">Pontos de recarga ativos</span>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-header">
+                        <span>Redes Operadoras</span>
+                        <i class="fa-solid fa-network-wired"></i>
+                    </div>
+                    <span class="kpi-value" id="kpi-redes">12</span>
+                    <span class="kpi-subtext">Marcas no mercado</span>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-header">
+                        <span>Conector Rápido</span>
+                        <i class="fa-solid fa-bolt-lightning"></i>
+                    </div>
+                    <span class="kpi-value" id="kpi-rapido">0%</span>
+                    <span class="kpi-subtext">Tecnologia CCS2 / DC</span>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-header">
+                        <span>Potência Máxima</span>
+                        <i class="fa-solid fa-plug"></i>
+                    </div>
+                    <span class="kpi-value" id="kpi-potencia">--</span>
+                    <span class="kpi-subtext">Disponível na rede</span>
+                </div>
+            </div>
+
+            <!-- Filtros -->
+            <div class="filters-panel">
+                <div class="search-wrapper">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="search-input" class="search-input" placeholder="Buscar por nome, cidade, rede...">
+                </div>
+                <div class="select-row">
+                    <div class="select-wrapper">
+                        <select id="select-estado">
+                            <option value="all">Todos os Estados</option>
+                        </select>
+                    </div>
+                    <div class="select-wrapper">
+                        <select id="select-rede">
+                            <option value="all">Todas as Redes</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lista de Eletropostos -->
+            <div class="chargers-list-wrapper">
+                <div class="list-header">
+                    <span>Lista de Eletropostos</span>
+                    <span id="filtered-count">Exibindo 341</span>
+                </div>
+                <div id="chargers-list">
+                    <!-- Cards de postos inseridos via JS -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Conteúdo do Mapa -->
+        <div class="map-wrapper">
+            <div id="map"></div>
+        </div>
+    </div>
+
+    <!-- Tabela Geral -->
+    <div id="table-view" style="display: none; flex: 1; padding: 24px; overflow: hidden; flex-direction: column; height: calc(100vh - 70px);">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+            <h2 style="font-family: var(--font-heading); font-size: 20px; font-weight: 700;">Base de Dados Completa</h2>
+            <span id="table-total-count" style="font-size: 13px; color: var(--text-muted);">Mostrando 341 registros</span>
+        </div>
+        <div style="flex: 1; overflow: auto; border: 1px solid var(--border-color); border-radius: var(--radius); background-color: var(--bg-card);">
+            <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 13px;">
+                <thead>
+                    <tr style="background-color: var(--bg-input); border-bottom: 1px solid var(--border-color); position: sticky; top: 0; z-index: 10;">
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">ID</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Nome</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Rede</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Conectores</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Potência (kW)</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Cidade</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">UF</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Endereço</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Preço</th>
+                        <th style="padding: 14px 16px; font-weight: 600; color: white;">Fonte</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Gerado dinamicamente via JS -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Script de dados compilados -->
+    <script src="data/eletropostos_data.js"></script>
+    
+    <!-- Lógica de Controle do Dashboard -->
+    <script>
+        // Variáveis de Controle e Estado
+        let map;
+        let markersGroup = [];
+        let activeChargerId = null;
+
+        // Ícone personalizado do mapa
+        const chargerIcon = L.divIcon({
+            html: '<div style="background-color: #10b981; width: 14px; height: 14px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 6px rgba(0,0,0,0.5);"></div>',
+            className: 'custom-charger-marker',
+            iconSize: [14, 14],
+            iconAnchor: [7, 7]
+        });
+
+        const activeChargerIcon = L.divIcon({
+            html: '<div style="background-color: #3b82f6; width: 18px; height: 18px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 8px rgba(59,130,246,0.8); animation: pulse 1.5s infinite;"></div>',
+            className: 'custom-charger-marker-active',
+            iconSize: [18, 18],
+            iconAnchor: [9, 9]
+        });
+
+        // 1. Inicializar o Mapa
+        function initMap() {
+            // Centralizado no Brasil
+            map = L.map('map', {
+                zoomControl: false
+            }).setView([-14.235, -51.925], 5);
+
+            // Adicionar controle de zoom na direita superior
+            L.control.zoom({ position: 'topright' }).addTo(map);
+
+            // Layer CartoDB Dark Matter (Estilo Dark premium)
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 20
+            }).addTo(map);
+        }
+
+        // 2. Extrair Métricas e Preencher KPIs
+        function calculateKPIs(data) {
+            document.getElementById('kpi-total').textContent = data.length;
+            
+            // Contagem de redes únicas
+            const redes = [...new Set(data.map(item => item.rede))].filter(Boolean);
+            document.getElementById('kpi-redes').textContent = redes.length;
+
+            // % de Carregamento Rápido (CCS2)
+            const ccs2Count = data.filter(item => item.tipo_conector.includes("CCS2")).length;
+            const pctCcs2 = data.length > 0 ? Math.round((ccs2Count / data.length) * 100) : 0;
+            document.getElementById('kpi-rapido').textContent = pctCcs2 + '%';
+
+            // Potência Máxima Mapeada
+            let maxPower = 0;
+            data.forEach(item => {
+                const match = item.potencia_kw.match(/\d+/);
+                if (match) {
+                    const p = parseInt(match[0]);
+                    if (p > maxPower) maxPower = p;
+                }
+            });
+            document.getElementById('kpi-potencia').textContent = maxPower > 0 ? maxPower + ' kW' : 'Não Inf.';
+        }
+
+        // 3. Preencher Dropdowns Dinamicamente
+        function populateFilters(data) {
+            const selectEstado = document.getElementById('select-estado');
+            const selectRede = document.getElementById('select-rede');
+
+            // Extrair estados únicos
+            const estados = [...new Set(data.map(item => item.estado))].filter(Boolean).sort();
+            estados.forEach(est => {
+                const opt = document.createElement('option');
+                opt.value = est;
+                opt.textContent = est;
+                selectEstado.appendChild(opt);
+            });
+
+            // Extrair redes únicas
+            const redes = [...new Set(data.map(item => item.rede))].filter(Boolean).sort();
+            redes.forEach(red => {
+                const opt = document.createElement('option');
+                opt.value = red;
+                opt.textContent = red;
+                selectRede.appendChild(opt);
+            });
+        }
+
+        // 4. Renderizar Marcadores no Mapa
+        function renderMarkers(data) {
+            // Remover marcadores anteriores
+            markersGroup.forEach(m => map.removeLayer(m));
+            markersGroup = [];
+
+            data.forEach(item => {
+                if (!item.latitude || !item.longitude) return;
+
+                const isActive = item.id_posto === activeChargerId;
+                const marker = L.marker([item.latitude, item.longitude], {
+                    icon: isActive ? activeChargerIcon : chargerIcon
+                });
+
+                // Popup HTML estilizado
+                const popupContent = `
+                    <div class="popup-title">${item.nome}</div>
+                    <div class="popup-detail">
+                        <i class="fa-solid fa-network-wired"></i>
+                        Rede: <strong>${item.rede || 'Independente'}</strong>
+                    </div>
+                    <div class="popup-detail">
+                        <i class="fa-solid fa-plug"></i>
+                        Conectores: <strong>${item.tipo_conector}</strong>
+                    </div>
+                    <div class="popup-detail">
+                        <i class="fa-solid fa-bolt-lightning"></i>
+                        Potência: <strong>${item.potencia_kw} kW</strong>
+                    </div>
+                    <div class="popup-detail">
+                        <i class="fa-solid fa-dollar-sign"></i>
+                        Custo: <strong>${item.preco_recarga}</strong>
+                    </div>
+                    <div class="popup-detail" style="margin-top:6px; font-size:11px;">
+                        <i class="fa-solid fa-location-dot"></i>
+                        ${item.endereco || 'Sem endereço mapeado'}
+                    </div>
+                `;
+
+                marker.bindPopup(popupContent);
+                
+                // Evento de clique no marcador
+                marker.on('click', () => {
+                    selectCharger(item.id_posto, false);
+                });
+
+                marker.addTo(map);
+                markersGroup.push(marker);
+                
+                // Salvar referência do marcador no objeto de dados
+                item._marker = marker;
+            });
+        }
+
+        // 5. Renderizar a Lista Lateral de Postos
+        function renderList(data) {
+            const container = document.getElementById('chargers-list');
+            container.innerHTML = '';
+
+            document.getElementById('filtered-count').textContent = `Exibindo ${data.length}`;
+
+            data.forEach(item => {
+                const card = document.createElement('div');
+                card.className = `charger-card ${item.id_posto === activeChargerId ? 'active' : ''}`;
+                card.id = `card-${item.id_posto}`;
+
+                card.innerHTML = `
+                    <div class="charger-title">${item.nome}</div>
+                    <div class="charger-addr">${item.cidade || 'Localidade'} - ${item.estado || 'SP'}</div>
+                    <div class="charger-tags">
+                        <span class="tag tag-rede"><i class="fa-solid fa-network-wired"></i> ${item.rede}</span>
+                        <span class="tag tag-conector"><i class="fa-solid fa-plug"></i> ${item.tipo_conector}</span>
+                        <span class="tag tag-potencia"><i class="fa-solid fa-bolt-lightning"></i> ${item.potencia_kw} kW</span>
+                    </div>
+                `;
+
+                card.addEventListener('click', () => {
+                    selectCharger(item.id_posto, true);
+                });
+
+                container.appendChild(card);
+            });
+        }
+
+        // 6. Selecionar Eletroposto (Centraliza e destaca)
+        function selectCharger(id, focusMap) {
+            // Desativar anterior
+            if (activeChargerId) {
+                const oldCard = document.getElementById(`card-${activeChargerId}`);
+                if (oldCard) oldCard.classList.remove('active');
+            }
+
+            activeChargerId = id;
+            const charger = window.eletropostosData.find(item => item.id_posto === id);
+            
+            if (!charger) return;
+
+            // Destacar Card na Lista
+            const newCard = document.getElementById(`card-${id}`);
+            if (newCard) {
+                newCard.classList.add('active');
+                newCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+
+            // Atualizar marcadores (mudar ícone do ativo)
+            window.eletropostosData.forEach(item => {
+                if (item._marker) {
+                    if (item.id_posto === id) {
+                        item._marker.setIcon(activeChargerIcon);
+                        if (focusMap) {
+                            map.setView([item.latitude, item.longitude], 14);
+                            item._marker.openPopup();
+                        }
+                    } else {
+                        item._marker.setIcon(chargerIcon);
+                    }
+                }
+            });
+        }
+
+        // 7. Renderizar a Tabela Geral de Dados
+        function renderTable(data) {
+            const container = document.getElementById('table-body');
+            container.innerHTML = '';
+            document.getElementById('table-total-count').textContent = `Mostrando ${data.length} de ${window.eletropostosData.length} registros`;
+
+            data.forEach(item => {
+                const tr = document.createElement('tr');
+                tr.style.borderBottom = '1px solid var(--border-color)';
+                tr.style.transition = 'background-color 0.15s';
+                tr.addEventListener('mouseenter', () => tr.style.backgroundColor = 'rgba(255,255,255,0.02)');
+                tr.addEventListener('mouseleave', () => tr.style.backgroundColor = 'transparent');
+                
+                tr.innerHTML = `
+                    <td style="padding: 12px 16px; color: var(--accent-blue); font-weight: 500; font-family: monospace;">${item.id_posto}</td>
+                    <td style="padding: 12px 16px; font-weight: 600; color: white;">${item.nome}</td>
+                    <td style="padding: 12px 16px;"><span class="tag tag-rede">${item.rede}</span></td>
+                    <td style="padding: 12px 16px;"><span class="tag tag-conector">${item.tipo_conector}</span></td>
+                    <td style="padding: 12px 16px; font-weight: 600; color: #34d399;">${item.potencia_kw} kW</td>
+                    <td style="padding: 12px 16px;">${item.cidade || '-'}</td>
+                    <td style="padding: 12px 16px; font-weight: 600;">${item.estado || '-'}</td>
+                    <td style="padding: 12px 16px; max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="${item.endereco}">${item.endereco || '-'}</td>
+                    <td style="padding: 12px 16px;">${item.preco_recarga}</td>
+                    <td style="padding: 12px 16px; color: var(--text-muted);">${item.fonte_dados}</td>
+                `;
+                container.appendChild(tr);
+            });
+        }
+
+        // 8. Filtrar Dados de Acordo com Filtros Ativos
+        function applyFilters() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const filterEstado = document.getElementById('select-estado').value;
+            const filterRede = document.getElementById('select-rede').value;
+
+            const filtered = window.eletropostosData.filter(item => {
+                const matchesSearch = item.nome.toLowerCase().includes(searchTerm) ||
+                                      (item.cidade && item.cidade.toLowerCase().includes(searchTerm)) ||
+                                      (item.rede && item.rede.toLowerCase().includes(searchTerm)) ||
+                                      (item.endereco && item.endereco.toLowerCase().includes(searchTerm));
+                
+                const matchesEstado = filterEstado === 'all' || item.estado === filterEstado;
+                const matchesRede = filterRede === 'all' || item.rede === filterRede;
+
+                return matchesSearch && matchesEstado && matchesRede;
+            });
+
+            renderMarkers(filtered);
+            renderList(filtered);
+            renderTable(filtered);
+        }
+
+        // Inicialização Principal
+        window.addEventListener('DOMContentLoaded', () => {
+            initMap();
+            
+            if (window.eletropostosData && window.eletropostosData.length > 0) {
+                calculateKPIs(window.eletropostosData);
+                populateFilters(window.eletropostosData);
+                renderMarkers(window.eletropostosData);
+                renderList(window.eletropostosData);
+                renderTable(window.eletropostosData);
+
+                // Configurar Event Listeners
+                document.getElementById('search-input').addEventListener('input', applyFilters);
+                document.getElementById('select-estado').addEventListener('change', applyFilters);
+                document.getElementById('select-rede').addEventListener('change', applyFilters);
+
+                // Configurar Abas
+                const btnMap = document.getElementById('btn-tab-map');
+                const btnTable = document.getElementById('btn-tab-table');
+                const mapContainer = document.querySelector('.dashboard-container');
+                const tableView = document.getElementById('table-view');
+
+                btnMap.addEventListener('click', () => {
+                    btnMap.classList.add('active');
+                    btnTable.classList.remove('active');
+                    mapContainer.style.display = 'flex';
+                    tableView.style.display = 'none';
+                    setTimeout(() => {
+                        map.invalidateSize();
+                    }, 50);
+                });
+
+                btnTable.addEventListener('click', () => {
+                    btnTable.classList.add('active');
+                    btnMap.classList.remove('active');
+                    mapContainer.style.display = 'none';
+                    tableView.style.display = 'flex';
+                });
+            } else {
+                alert("Erro ao carregar dados do arquivo data/eletropostos_data.js. Certifique-se de compilar os dados!");
+            }
+        });
+    </script>
+</body>
+</html>

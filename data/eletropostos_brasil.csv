@@ -1,0 +1,573 @@
+id_posto,nome,latitude,longitude,endereco,cidade,estado,tipo_conector,potencia_kw,rede,preco_recarga,status_operacional,is_publico,fonte_dados
+osm_4305047889,Balsa Leia,-1.9192939,-55.5156603,Avenida Siqueira Campos,Óbidos,PA,Não Informado,Não Informada,Balsa Leia,Não Informado,Ativo,True,OpenStreetMap
+osm_4324626090,Auto Posto Porto,-15.851941,-58.4704355,Rua Durval SAnta Maria Lebre,Porto Esperidião,MT,Não Informado,Não Informada,Auto Posto Porto,Não Informado,Ativo,True,OpenStreetMap
+osm_4380754491,Posto e Conveniência Celeiro,-12.0600494,-63.5575703,Rua Paulo Afonso,São Francisco do Guaporé,RO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4391907990,Eletroposto Independente,-10.9875913,-38.8011237,Rodovia Santos Dumont,Tucano,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4406374089,Petrobrás,-29.8487759,-51.1418072,Rua São Benedito,Sapucaia do Sul,RS,Não Informado,Não Informada,Petrobrás,Não Informado,Ativo,True,OpenStreetMap
+osm_4450584394,Ipiranga,-6.0716894,-49.8977085,Rua Liberdade,Parauapebas,PA,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4493304798,posto Patrão,-10.876467,-61.9460593,Rua Seis de Maio,Ji-Paraná,RO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4503244793,Pedropaulo,-2.8616839,-67.769798,Rua Getúlio Vargas,Tonantins,AM,Não Informado,Não Informada,Pedropaulo,Não Informado,Ativo,True,OpenStreetMap
+osm_4503280690,Equador,-2.8605419,-67.7703995,Rua Duque de Caxias,Tonantins,AM,Não Informado,Não Informada,Equador,Não Informado,Ativo,True,OpenStreetMap
+osm_4549319921,Auto posto Novo mundo,-8.7768771,-50.4689332,Avenida José Martins de Resende,Santa Maria das Barreiras,PA,Não Informado,Não Informada,Auto posto Novo mundo,Não Informado,Ativo,True,OpenStreetMap
+osm_4556211697,Posto Paizão,-28.6356251,-53.610052,Rua General Felipe Portinho,Cruz Alta,RS,Não Informado,Não Informada,Posto Shell,Não Informado,Ativo,True,OpenStreetMap
+osm_4556251493,Posto Ipiranga,-28.6531775,-53.5892539,Avenida Saturnino de Brito,Cruz Alta,RS,Não Informado,Não Informada,Posto Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4557762766,Estrelar Auto Elétrica,-28.6468323,-53.5852484,Avenida Plácido de Castro,Cruz Alta,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4557938491,PROTTI,-28.6461669,-53.5962822,Avenida Saturnino de Brito,Cruz Alta,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4565028090,Ipiranga,-8.7017417,-35.1567764,PE-060,Rio Formoso,PE,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4572010593,auto pisto mar- alegre BR,-22.9469499,-43.0574955,Rua Nicanor Nunes,Niterói,RJ,Não Informado,Não Informada,auto pisto mar- alegre BR,Não Informado,Ativo,True,OpenStreetMap
+osm_4572572393,Bandeira Petrobrás,-20.480274,-54.6406611,Rua Doutor Mário Quintanilha,Campo Grande,MS,Não Informado,Não Informada,Bandeira Petrobrás,Não Informado,Ativo,True,OpenStreetMap
+osm_4572582789,Bandeira Grupo JD,-20.4924163,-54.6491459,Rua Temiminós,Campo Grande,MS,Não Informado,Não Informada,Bandeira Grupo JD,Não Informado,Ativo,True,OpenStreetMap
+osm_4582037290,Ipiranga,-6.0897752,-49.8585738,Avenida H,Parauapebas,PA,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4582038191,Petrobrás,-6.0814076,-49.8568224,Avenida B5,Parauapebas,PA,Não Informado,Não Informada,Petrobrás,Não Informado,Ativo,True,OpenStreetMap
+osm_4584108395,Eletroposto Independente,-28.5865236,-52.2039698,Rua Bento Gonçalves,Camargo,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4584746891,chell,-27.8640926,-54.4852278,Rua Doutor Francisco Timm,Santa Rosa,RS,Não Informado,Não Informada,chell,Não Informado,Ativo,True,OpenStreetMap
+osm_4584855597,Eletroposto Independente,-29.3353583,-49.73252,Avenida Bento Gonçalves,Torres,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4592819489,Curitiba Eco Elétrico,-25.4424143,-49.241076,Rua Engenheiro Ostoja Roguski,Curitiba,PR,Não Informado,Não Informada,Curitiba Eco Elétrico,Não Informado,Ativo,True,OpenStreetMap
+osm_4606999394,BASE SA BOMON,-3.1243995,-51.7214434,Rodovia Transamazônica,Vitória do Xingu,PA,Não Informado,Não Informada,BASE SA BOMON,Não Informado,Ativo,True,OpenStreetMap
+osm_4610868389,auto posto 3 corações,-14.3143625,-49.1539578,Avenida Bernardo Sayão,Campinorte,GO,Não Informado,Não Informada,auto posto 3 corações,Não Informado,Ativo,True,OpenStreetMap
+osm_4610868391,auto posto hotel churrasqueira Belém Brasília,-14.3149875,-49.150605,Rua Lino Prado,Campinorte,GO,Não Informado,Não Informada,auto posto hotel churrasqueira Belém Brasília,Não Informado,Ativo,True,OpenStreetMap
+osm_4614878389,Eletroposto Independente,-23.5466205,-51.451983,Avenida Minas Gerais,Apucarana,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4616238990,Posto Toledo,-21.7059385,-41.0404375,Rua José Pinto Alves,São João da Barra,RJ,Não Informado,Não Informada,Posto Toledo,Não Informado,Ativo,True,OpenStreetMap
+osm_4616238991,Posto Graffite,-21.7030023,-41.0362613,Avenida Liberdade,Figueira,RJ,Não Informado,Não Informada,Posto Graffite,Não Informado,Ativo,True,OpenStreetMap
+osm_4624938691,Rede Marajó do Cariri,-11.9051072,-49.174018,BR-153,Cariri do Tocantins,TO,Não Informado,Não Informada,Rede Marajó do Cariri,Não Informado,Ativo,True,OpenStreetMap
+osm_4628974813,Posto Brasil,-5.6167765,-45.7686658,Rodovia BR-226,Grajaú,MA,Não Informado,Não Informada,Posto Brasil,Não Informado,Ativo,True,OpenStreetMap
+osm_4637903489,Auto Posto Nova Olinda,-7.6285043,-48.4263858,Rua Tocantinópolis,Nova Olinda,TO,Não Informado,Não Informada,Auto Posto Nova Olinda,Não Informado,Ativo,True,OpenStreetMap
+osm_4649312895,Posto Bolinha,-25.4588262,-49.2619757,Rua João Parolin,Curitiba,PR,Não Informado,Não Informada,Posto Bolinha,Não Informado,Ativo,True,OpenStreetMap
+osm_4653450999,Megapetro,-29.8901003,-50.275825,Rua Paul Harris,Osório,RS,Não Informado,Não Informada,Megapetro,Não Informado,Ativo,True,OpenStreetMap
+osm_4658429490,Posto Jatobá BR,-8.8941941,-36.4956354,Rua Melo Peixoto,Garanhuns,PE,Não Informado,Não Informada,Posto Jatobá BR,Não Informado,Ativo,True,OpenStreetMap
+osm_4664191294,ipiringa,-29.7593053,-57.0656058,Rua Franklin Fernandes,Uruguaiana,RS,Não Informado,Não Informada,ipiringa,Não Informado,Ativo,True,OpenStreetMap
+osm_4681043894,Posto Talismã,-4.1675213,-40.7525294,Avenida Tenente Matias,Guaraciaba do Norte,CE,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4683545689,POSTO SERTÃ,-7.8482197,-34.9095055,Avenida Alfredo Bandeira de Melo,Igarassu,PE,Não Informado,Não Informada,POSTO SERTÃ,Não Informado,Ativo,True,OpenStreetMap
+osm_4688564590,BR,-3.7462426,-38.5851818,Avenida Coronel Matos Dourado,Dom Lustosa,CE,Não Informado,Não Informada,BR,Não Informado,Ativo,True,OpenStreetMap
+osm_4692672413,Sat,-6.3381319,-35.3140321,RN-003,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
+osm_4692710389,Sat,-6.335439,-35.2999211,Rua Sebastião Camilo,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
+osm_4715091590,GNV BR ARACATI,-4.5783902,-37.7791617,Rota do Sol Nascente,Aracati,CE,Não Informado,Não Informada,GNV BR ARACATI,Não Informado,Ativo,True,OpenStreetMap
+osm_4715773790,Sat,-6.3355801,-35.300003,Rua Sebastião Camilo,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
+osm_4715780189,Sat,-6.3381434,-35.3140715,RN-003,Espírito Santo,RN,Não Informado,Não Informada,Sat,Não Informado,Ativo,True,OpenStreetMap
+osm_4726712289,posto seta,-8.2787392,-36.0042067,Rua Alexandrino Boa ventura,Caruaru,PE,Não Informado,Não Informada,posto seta,Não Informado,Ativo,True,OpenStreetMap
+osm_4735586927,Ipiranga,-30.3764126,-56.4522907,Rua Doutor Ascanio Tubino,Quaraí,RS,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4735586928,Eletroposto Independente,-30.3855634,-56.4401337,Avenida 20 de Setembro,Quaraí,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4741393330,Eletroposto Independente,-16.6906974,-49.2574125,Rua 87,Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4742231421,Boa Hora Project,-8.3299846,-36.2239297,Rodovia BR-232,Tacaimbó,PE,Não Informado,Não Informada,Boa Hora Project,Não Informado,Ativo,True,OpenStreetMap
+osm_4756281122,Eletroposto Independente,-12.9950869,-38.4762139,Avenida Juracy Magalhães Júnior,Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4760842726,2802 - POSTO CENTRAL,-8.5793127,-35.3860234,Avenida Ulisses Guimaraes,Gameleira,PE,Não Informado,Não Informada,2802 - POSTO CENTRAL,Não Informado,Ativo,True,OpenStreetMap
+osm_4762342849,"2800 - AMPM, Germares conveniência",-8.6799582,-35.1585008,PE-060,Rio Formoso,PE,Não Informado,Não Informada,"2800 - AMPM, Germares conveniência",Não Informado,Ativo,True,OpenStreetMap
+osm_4762824159,2808 - CONVENIÊNCIA PETROX,-8.8038874,-35.1877511,PE-060,Barreiros,PE,Não Informado,Não Informada,2808 - CONVENIÊNCIA PETROX,Não Informado,Ativo,True,OpenStreetMap
+osm_4790962823,Eletroposto Independente,-28.173459,-53.4732253,BR-158,Condor,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4791443535,POSTO UMBURUÇU,-9.3259521,-40.4634509,BR-428,Petrolina,PE,Não Informado,Não Informada,POSTO UMBURUÇU,Não Informado,Ativo,True,OpenStreetMap
+osm_4791451027,3026 - POSTO CACHOEIRA 2,-8.0795808,-39.1312595,Rodovia Santos Dumont,Salgueiro,PE,Não Informado,Não Informada,3026 - POSTO CACHOEIRA 2,Não Informado,Ativo,True,OpenStreetMap
+osm_4791465922,3079 - POSTO CACHOEIRA 4,-8.096094,-39.5858624,Rodovia BR-232,Parnamirim,PE,Não Informado,Não Informada,3079 - POSTO CACHOEIRA 4,Não Informado,Ativo,True,OpenStreetMap
+osm_4794306230,POSTO VERCOL 2,-8.0621634,-39.1185872,Rua Coronel Veremundo,Salgueiro,PE,Não Informado,Não Informada,POSTO VERCOL 2,Não Informado,Ativo,True,OpenStreetMap
+osm_4795166726,WA - TAURUS,-20.4667233,-55.7816601,Avenida Doutor Sabino,Aquidauana,MS,Não Informado,Não Informada,WA - TAURUS,Não Informado,Ativo,True,OpenStreetMap
+osm_4795791923,Eletroposto Independente,-5.4534426,-44.4600041,Rodovia BR-135,Presidente Dutra,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4802042236,AUTO POSTO BEZERRA,-7.5869021,-37.5382207,Avenida Antonio Pereira,Tabira,PE,Não Informado,Não Informada,AUTO POSTO BEZERRA,Não Informado,Ativo,True,OpenStreetMap
+osm_4805650324,ipiranga,-13.3692468,-39.0706836,Avenida Maçônica,Valença,BA,Não Informado,Não Informada,ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4806120322,AUTO POSTO MARAVILHA 2,-7.986487,-38.2905457,Rua Antônio Alves da Silveira,Serra Talhada,PE,Não Informado,Não Informada,AUTO POSTO MARAVILHA 2,Não Informado,Ativo,True,OpenStreetMap
+osm_4807447521,Eletroposto Independente,-6.0727892,-49.8667124,PA-160,Parauapebas,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4809609621,Eletroposto Independente,-6.0781921,-49.9127061,Avenida Princesa Izabel,Parauapebas,PA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4833360622,Posto Caracol,-5.0232173,-56.1867318,BR-163,Trairão,PA,Não Informado,Não Informada,Posto Caracol,Não Informado,Ativo,True,OpenStreetMap
+osm_4833371721,Posto Ipiranga - Míriam,-4.3468797,-55.7881323,Rua dos Ipês,Itaituba,PA,Não Informado,Não Informada,Posto Ipiranga - Míriam,Não Informado,Ativo,True,OpenStreetMap
+osm_4840101722,Ipiranga,-23.2798452,-50.0554445,Rodovia Transbrasiliana,Santo Antônio da Platina,PR,Não Informado,Não Informada,Ipiranga,Não Informado,Ativo,True,OpenStreetMap
+osm_4856083921,Líder,-21.7369309,-43.4423561,Rodovia Presidente Juscelino Kubitschek,Juiz de Fora,MG,Não Informado,Não Informada,Líder,Não Informado,Ativo,True,OpenStreetMap
+osm_4858345621,Eletroposto Independente,3.3655523,-59.8401516,Avenida São Sebastião,Bonfim,RR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4859977223,Posto Medeiros,-16.6644533,-49.2799114,Rua C,Goiânia,GO,Não Informado,Não Informada,Bandeira Branca,Não Informado,Ativo,True,OpenStreetMap
+osm_4880374522,Posto Dom Eliseu,-4.312501,-47.5532271,Rua Carlos Bartolomeu,Dom Eliseu,PA,Não Informado,Não Informada,Posto Dom Eliseu,Não Informado,Ativo,True,OpenStreetMap
+osm_4883611726,Eletroposto Independente,-19.4987459,-41.9773688,Avenida José Antônio Santana,São Sebastião do Anta,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4894584421,Taurus,-20.350113,-56.1561919,BR-262,Miranda,MS,Não Informado,Não Informada,Taurus,Não Informado,Ativo,True,OpenStreetMap
+osm_4894620822,Taurus,-20.6520776,-55.8983273,Estrada do 21,Anastácio,MS,Não Informado,Não Informada,Taurus,Não Informado,Ativo,True,OpenStreetMap
+osm_4896288025,Eletroposto Independente,-20.4729376,-55.7934858,Rua Assis Ribeiro,Aquidauana,MS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4919875122,POSTO SÃO JOÃO BATISTA (BR),-7.5759824,-40.5100458,Avenida Florentino Alves Batista,Araripina,PE,Não Informado,Não Informada,POSTO SÃO JOÃO BATISTA (BR),Não Informado,Ativo,True,OpenStreetMap
+osm_4936168324,Posto Terras Altas,-22.273609,-44.8764036,Rua Um,Itamonte,MG,Não Informado,Não Informada,Posto Terras Altas,Não Informado,Ativo,True,OpenStreetMap
+osm_4949362224,Petrobras,-18.5942435,-46.5124107,Avenida Brasil,Patos de Minas,MG,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_4949389421,Shell,-18.5960102,-46.515508,Avenida Getúlio Vargas,Patos de Minas,MG,Não Informado,Não Informada,Shell,Não Informado,Ativo,True,OpenStreetMap
+osm_4950821221,Petrobras,-19.0399727,-46.222983,BR-354,Carmo do Paranaíba,MG,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_4958910124,walmor Rodrigues,-29.8883758,-50.2672948,Rua Santos Dumont,Osório,RS,Não Informado,Não Informada,walmor Rodrigues,Não Informado,Ativo,True,OpenStreetMap
+osm_4978088229,Ipiranga Chammas,-23.1974233,-49.7563619,Rua Coronel Emílio Gomes,Ribeirão Claro,PR,Não Informado,Não Informada,Ipiranga Chammas,Não Informado,Ativo,True,OpenStreetMap
+osm_4978121522,Posto Combustível Chammas,-23.191972,-49.7573221,Rua Coronel Emílio Gomes,Ribeirão Claro,PR,Não Informado,Não Informada,Posto Combustível Chammas,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903821,posto Zrma,-18.4559961,-50.4536279,Avenida Dom Pedro I,Quirinópolis,GO,Não Informado,Não Informada,posto Zrma,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903826,posto Jacarezinho,-18.4465348,-50.4570783,Avenida Lázaro Xavier,Quirinópolis,GO,Não Informado,Não Informada,posto Jacarezinho,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903827,posto Central,-18.4478733,-50.4555572,Avenida Brasil,Quirinópolis,GO,Não Informado,Não Informada,posto Central,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903829,posto varejão,-18.449399,-50.4475032,Rua Pastor Zetil,Quirinópolis,GO,Não Informado,Não Informada,posto varejão,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903830,posto Jacarezinho 2,-18.4495282,-50.4452577,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,posto Jacarezinho 2,Não Informado,Ativo,True,OpenStreetMap
+osm_4983903832,posto Lucas,-18.4483128,-50.439158,Avenida Leocádio de Souza Reis,Quirinópolis,GO,Não Informado,Não Informada,posto Lucas,Não Informado,Ativo,True,OpenStreetMap
+osm_4983904030,POSTO SAO JUDAS TADEU 1,-18.4523005,-50.4498137,Avenida José Quintiliano Leão,Quirinópolis,GO,Não Informado,Não Informada,POSTO SAO JUDAS TADEU 1,Não Informado,Ativo,True,OpenStreetMap
+osm_4983904321,Eletroposto Independente,-18.4494216,-50.4521335,Avenida Don Pedro I,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983904322,BANDEIRA BRANCA,-18.4499427,-50.4442872,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,BANDEIRA BRANCA,Não Informado,Ativo,True,OpenStreetMap
+osm_4983946329,Eletroposto Independente,-18.4479987,-50.4495245,Avenida Fabio Garcia,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4983960826,Eletroposto Independente,-18.448398,-50.4482816,Avenida Garibaldi Teixeira,Quirinópolis,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_4990278821,Posto JB II,-8.8826158,-36.4781466,Avenida Rui Barbosa,Garanhuns,PE,Não Informado,Não Informada,Posto JB II,Não Informado,Ativo,True,OpenStreetMap
+osm_4998875823,Petrobras - Posto Luma,-19.7685873,-44.0922267,Rua José Pedro Pereira,Ribeirão das Neves,MG,Não Informado,Não Informada,Petrobras - Posto Luma,Não Informado,Ativo,True,OpenStreetMap
+osm_5000975722,Petrobras,-25.4189072,-49.9969186,Rua Moisés Marcondes,Palmeira,PR,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_5015597421,Shell,-12.1475309,-44.9943831,Avenida Antônio Carlos Magalhães,Barreiras,BA,Não Informado,Não Informada,Shell,Não Informado,Ativo,True,OpenStreetMap
+osm_5038970021,Petrobras Belvedere (podium),-21.2303082,-43.7898943,Avenida Orozimbo Paulucci,Barbacena,MG,Não Informado,Não Informada,Petrobras Belvedere (podium),Não Informado,Ativo,True,OpenStreetMap
+osm_5148630023,Ellca,-1.4650827,-48.4937825,Travessa Honório José dos Santos,Belém,PA,Não Informado,Não Informada,Ellca,Não Informado,Ativo,True,OpenStreetMap
+osm_5231546821,Cigas Companhia de Gas do Amazonas,-3.0567684,-60.0250796,Avenida Torquato Tapajós,Manaus,AM,Não Informado,Não Informada,Cigas Companhia de Gas do Amazonas,Não Informado,Ativo,True,OpenStreetMap
+osm_5261182014,Posto BR,-1.3755333,-48.4149001,Condominio Ametista,Ananindeua,PA,Não Informado,Não Informada,Posto BR,Não Informado,Ativo,True,OpenStreetMap
+osm_5350108821,Barreiras 2 (São Pedro),-12.1741062,-44.8106133,Rodovia Milton Santos,Barreiras,BA,Não Informado,Não Informada,Barreiras 2 (São Pedro),Não Informado,Ativo,True,OpenStreetMap
+osm_5649812371,Assai Vila Guilherme,-23.5220436,-46.6017625,"Avenida Morvan Dias de Figueiredo (Local), 3231",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_6302105785,Usina hidrelétrica Salto do Vau,-26.035058,-51.1920765,PR-447,União da Vitória,PR,Não Informado,Não Informada,Usina hidrelétrica Salto do Vau,Não Informado,Ativo,True,OpenStreetMap
+osm_6361077255,Mobike,-23.5720384,-46.6965196,Avenida Eusébio Matoso,São Paulo,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_6401386518,Eletroposto Independente,-3.7713175,-38.481439,Avenida Doutor Valmir Pontes,Edson Queiroz,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_6401386519,Eletroposto Independente,-3.7712991,-38.4813128,"Avenida Washington Soares, 1321",Edson Queiroz,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_6512348929,Posto Mirante,-15.4756833,-55.7335447,Alameda Ipê Branco,Chapada dos Guimarães,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_6757448841,EDP,-20.3145983,-40.2905974,Rua Florentino Faller,Vitória,ES,Não Informado,Não Informada,EDP,Não Informado,Ativo,True,OpenStreetMap
+osm_6852378964,Posto de Carregamento EDP,-20.2805718,-40.2880122,Avenida Dante Michelini,Vitória,ES,Não Informado,Não Informada,EDP,no,Ativo,True,OpenStreetMap
+osm_7031910085,Marconi,-5.7252194,-35.2636748,Rua Norte da Colina,Natal,RN,Não Informado,Não Informada,Marconi,Não Informado,Ativo,True,OpenStreetMap
+osm_7052772385,Eletroposto Independente,-30.1958095,-50.6568395,Estrada Dinarte da Silva Bueno,Viamão,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_7098550069,ABB BRasil,-23.5015679,-46.733278,Avenida do Anastácio,São Paulo,SP,Não Informado,Não Informada,ABB BRasil,no,Ativo,True,OpenStreetMap
+osm_7174911428,Eletrovia Paranaense,-25.4593899,-51.9513483,BR-277;BR-373,Candói,PR,"Type 2, CHAdeMO",Não Informada,Copel,no,Ativo,True,OpenStreetMap
+osm_8122125803,Parceria Solar,-29.6892348,-53.7930779,Avenida Nossa Senhora das Dores,Santa Maria,RS,Não Informado,Não Informada,Parceria Solar,no,Ativo,True,OpenStreetMap
+osm_8793186704,Estação de Carregamento de Carros Elétricos ou Híbridos,-27.0703977,-52.626905,Avenida Fernando Machado - D,Chapecó,SC,Não Informado,Não Informada,Pátio Shopping,Não Informado,Ativo,True,OpenStreetMap
+osm_8843546330,Eletroposto Independente,-27.7940994,-50.2838641,Rodovia Ulysses Guimarães,Lages,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9136401881,Blumenau Norte Shopping,-26.8636876,-49.0934814,"Rodovia Ingo Hering, 3000",Blumenau,SC,Type 2,Não Informada,Blumenau Norte Shopping,no,Ativo,True,OpenStreetMap
+osm_9136401882,Shopping Neumarkt,-26.92017,-49.0698469,"Rua 7 de Setembro, 1213",Blumenau,SC,Type 2,Não Informada,Shopping Neumarkt,no,Ativo,True,OpenStreetMap
+osm_9225529282,Eletroposto Volvo,-29.2681815,-50.3026039,Rua das Tainhas,Cambará do Sul,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9377925973,Eletroposto Independente,-5.8514428,-35.2058373,Avenida Ayrton Senna,Natal,RN,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9377925974,Eletroposto Independente,-5.8514459,-35.2058255,Avenida Ayrton Senna,Natal,RN,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171164,Plaza,-8.0362673,-34.9129013,Rua Doutor João Santos Filho,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171165,Ferreira Costa,-8.030758,-34.9022679,Rua Cônego Barata,Recife,PE,Não Informado,Não Informada,Ferreira Costa,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171166,Riomar - Estacionamento D3,-8.0864867,-34.8937857,"Avenida República do Líbano, 251",Recife,PE,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_9480171167,Riomar - 1,-8.0859264,-34.8949015,"Avenida República do Líbano, 251",Recife,PE,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_9480171168,Ferreira Costa - B,-8.030732,-34.9025604,Rua Curaça,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171169,JCPM,-8.0895162,-34.8820006,Rua Eduardo Jorge,Recife,PE,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_9480171170,Santé,-8.1139867,-34.8935842,Avenida Conselheiro Aguiar,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171171,Shopping Recife - B,-8.1186155,-34.9028878,"Rua Padre Carapuceiro, 777",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171172,Shopping Recife - A,-8.1179951,-34.9043079,Base Recife,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171173,Posto Pichilau,-8.1771812,-34.9494398,Rodovia Governador Mário Covas,Jaboatão dos Guararapes,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171174,Aeroporto dos Guararapes,-8.1309349,-34.9169529,Praça Ministro Salgado Filho,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171175,Ferreira Costa,-8.112029,-34.9118505,"Acesso a Ferreira Costa Home Center, 2967",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171176,Deskontão,-8.1142535,-34.9122194,Avenida Marechal Mascarenhas de Moraes,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171177,Rota Premium - Volvo,-8.1103704,-34.9104835,Rua Joaquim Bandeira,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171178,Jac,-8.1004388,-34.9099466,Avenida Marechal Mascarenhas de Moraes,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171179,Camará Shopping,-8.0154427,-34.9777858,"Rua Manoel Honorato da Costa, 555",Camaragibe,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171180,Shopping Patteo,-7.9935884,-34.8403285,Rua Doutor Eduardo de Morais,Olinda,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480171181,Shopping Difusora,-8.2776985,-35.9720681,Acesso ao Shopping Difusora,Caruaru,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480242093,Conselho distrital,-3.8477466,-32.4156884,Rua Nice Cordeiro,Vila Floresta Velha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9480242094,Palácio São Miguel,-3.8413463,-32.4109425,Rua São Miguel,Fernando de Noronha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9531180579,Eletroposto Independente,-29.2721497,-50.3216061,Rua Espanha,São Francisco de Paula,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9531242015,Eletroposto Independente,-29.1719767,-51.1755466,Rua Alfredo Chaves,Caxias do Sul,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9543449499,Eletroposto ABB,-23.349863,-46.5569984,Rodovia Fernão Dias,Mairiporã,SP,Type 2,Não Informada,ABB,no,Ativo,True,OpenStreetMap
+osm_9556554164,ABB,-23.2054704,-45.9078728,Avenida Major Miguel Naked,São José dos Campos,SP,Type 2,Não Informada,ABB,no,Ativo,True,OpenStreetMap
+osm_9575141392,ABB,-23.1992486,-45.8816864,Avenida Lisboa,São José dos Campos,SP,Type 2,Não Informada,ABB,no,Ativo,True,OpenStreetMap
+osm_9575141393,ABB,-23.2170792,-45.8901769,Avenida Cidade Jardim,São José dos Campos,SP,Type 2,Não Informada,ABB,no,Ativo,True,OpenStreetMap
+osm_9654398597,Eletroposto,-5.0808437,-42.8046536,Rua Juliano Moreira,Teresina,PI,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_9846894535,Volvo,-15.5752544,-56.0722493,Acesso 1,Cuiabá,MT,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
+osm_9973035224,Posto Pichilau (Corredor Verde),-8.3933453,-35.2589599,Rua Um,Escada,PE,Não Informado,Não Informada,Neoenergia,no,Ativo,True,OpenStreetMap
+osm_10004329264,Eletroposto Loja Elétrica Ltda - Filial Anel Rodoviário,-19.8922445,-43.9783609,"Rua Professor José Vieira de Mendonça, 11",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10004330849,Eletroposto Loja Elétrica - Filial Barão,-19.9649503,-43.9623188,Rua Professor Jorge Lage,Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10004346887,Eletroposto Loja Elétrica Ltda - Filial Ipatinga,-19.4726377,-42.5581511,Avenida José Júlio da Costa,Ipatinga,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10004362622,Eletroposto Loja Elétrica Ltda - Filial Sion,-19.9491727,-43.9364432,"Avenida Nossa Senhora do Carmo, 1202",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10004371471,Eletroposto Loja Elétrica Ltda - Filial Uberlândia,-18.9352999,-48.232656,Avenida João Naves de Ávila,Uberlândia,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10007641358,atmosfera,-23.449359,-45.066307,Avenida Leovigildo Dias Vieira,Ubatuba,SP,Não Informado,Não Informada,atmosfera,Não Informado,Ativo,True,OpenStreetMap
+osm_10035080438,Eletroposto Independente,-23.2182454,-45.9174641,Avenida Professor Alfredo Fernandes de Almeida,São José dos Campos,SP,Type 2,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_10035080439,Eletroposto Independente,-23.2189317,-45.9176975,Rua Winston Churchill,São José dos Campos,SP,Type 2,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_10035080440,Eletroposto Independente,-23.2188921,-45.9177136,Rua Winston Churchill,São José dos Campos,SP,Type 2,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_10126478277,Eletroposto Independente,-15.6018301,-56.0572712,Avenida Érico Gonçalves Preza Filho,Cuiabá,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10162494544,Eletroposto Independente,-5.8634722,-35.2121821,Avenida das Alagoas,Natal,RN,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10242331797,Estação de carregamento de veículos elétricos,-31.3356719,-54.104769,Avenida Sete de Setembro,Bagé,RS,Não Informado,Não Informada,UNICRED,Não Informado,Ativo,True,OpenStreetMap
+osm_10602948115,Eletroposto Volvo,-15.5921419,-56.1062974,Avenida Isaac Póvoas,Cuiabá,MT,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
+osm_10607159268,Eletroposto,-30.9832749,-54.6765582,Avenida Júlio de Castilhos,Dom Pedrito,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10689741126,Audi,-15.6116207,-56.0769117,Rua 31 de Março,Cuiabá,MT,Não Informado,Não Informada,Audi,no,Ativo,True,OpenStreetMap
+osm_10692094359,Restaurante Cansian Zamban,-27.8150697,-50.3248606,Rua Frei Rogério,Lages,SC,Não Informado,Não Informada,Restaurante Cansian Zamban,Não Informado,Ativo,True,OpenStreetMap
+osm_10693428105,Renault,-3.8470609,-32.414057,Rodovia Miguel Arraes de Alencar,Vila Floresta Velha,PE,Não Informado,Não Informada,Renault,Não Informado,Ativo,True,OpenStreetMap
+osm_10731730843,BMW,-15.6118861,-56.0766532,Rua 31 de Março,Cuiabá,MT,Não Informado,Não Informada,BMW,Não Informado,Ativo,True,OpenStreetMap
+osm_10738040107,Eletroposto Independente,1.9362224,-60.5940476,Rodovia 432 - Boa Vista,Cantá,RR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10741852272,Eletroposto Independente,-3.7337065,-38.506407,"Avenida Barão de Studart, 1050",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10785433203,Carregador Volvo,-23.0381823,-45.5798308,Avenida Independência,Taubaté,SP,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,OpenStreetMap
+osm_10816567801,ZE zerio emission,-3.8441429,-32.4106235,Rua São Miguel,Fernando de Noronha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10876231596,Certel,-29.4506024,-51.9847566,Avenida Benjamin Constant,Lajeado,RS,Não Informado,Não Informada,Certel,no,Ativo,True,OpenStreetMap
+osm_10916942983,Eletroposto Enerzon Eletropostos,-22.9408608,-43.0566957,"Estrada Francisco da Cruz Nunes, 6501",Niterói,RJ,Não Informado,Não Informada,Enerzon Eletropostos,Não Informado,Ativo,True,OpenStreetMap
+osm_10964777724,Eletroposto Itaipu,-15.796732,-47.8679936,N1,Brasília,DF,Não Informado,Não Informada,Itaipu,no,Ativo,True,OpenStreetMap
+osm_10970973175,Eletroposto Independente,-25.4360275,-49.2570994,Avenida Presidente Affonso Camargo,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10970973176,Eletroposto Independente,-25.4360729,-49.2571122,Avenida Presidente Affonso Camargo,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_10991138819,Cofesa Max,-23.5804177,-48.029594,"Avenida Doutor José de Almeida Carvalho, 1000",Itapetininga,SP,Não Informado,Não Informada,Cofesa Max,yes,Ativo,True,OpenStreetMap
+osm_11040399357,incharge,-19.7659193,-47.9511737,"Avenida Santa Beatriz da Silva, 1501",Uberaba,MG,Não Informado,Não Informada,incharge,Não Informado,Ativo,True,OpenStreetMap
+osm_11047084703,Eletroposto Independente,-2.4996608,-44.3093862,Avenida Doutor Jackson Kepler Lago,São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11047084704,Eletroposto Independente,-2.5094902,-44.2425175,Empório Fribal,São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11047095114,Eletroposto Independente,-2.5274601,-44.2555793,"Avenida Daniel de La Touche, 987",São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11056667405,Zaitt 24h,-16.3321005,-48.9379945,Avenida Santos Dumont,Anápolis,GO,Não Informado,Não Informada,automático,Não Informado,Ativo,True,OpenStreetMap
+osm_11099953638,Ferreira Costa,-8.0305727,-34.9027206,Rua Curaça,Recife,PE,Não Informado,Não Informada,Ferreira Costa,Não Informado,Ativo,True,OpenStreetMap
+osm_11159495258,Eletroposto,-23.2769738,-45.8450227,Rodovia Governador Carvalho Pinto,São José dos Campos,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11173226868,Eletroposto Independente,-21.9082817,-48.052922,Rodovia Washington Luís,Ibaté,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11178979747,Marco Imóveis,-26.7365722,-49.1786547,Avenida 21 de Janeiro,Pomerode,SC,Type 2,Não Informada,Marco Imóveis,no,Ativo,True,OpenStreetMap
+osm_11186080609,Eletroposto Independente,-29.3265909,-49.7149949,Avenida Beira-Mar,Torres,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11266520418,Copel,-25.4184653,-50.7609022,BR-277,Irati,PR,Não Informado,Não Informada,Copel,Não Informado,Ativo,True,OpenStreetMap
+osm_11269493456,Eletroposto Volvo,-15.592589,-56.1061185,"Avenida Isaac Póvoas, 1337",Cuiabá,MT,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,OpenStreetMap
+osm_11291548116,Eletroposto Petrobras,-17.0172536,-39.5426917,Rua Buerarema,Itamaraju,BA,Não Informado,Não Informada,Petrobras,Não Informado,Ativo,True,OpenStreetMap
+osm_11371485834,Rancho Empyreo,-22.2356973,-47.3905387,Rodovia Anhanguera,Leme,SP,Type 2,Não Informada,Zletric,yes,Ativo,True,OpenStreetMap
+osm_11373288894,Eletroposto Independente,-15.5895041,-56.0844744,Rua F,Cuiabá,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11384376944,Eletroposto POSTO SÃO JUDAS TADEU 2,-18.4473108,-50.4478369,Avenida Frei João Batista,Quirinópolis,GO,Não Informado,Não Informada,POSTO SÃO JUDAS TADEU 2,Não Informado,Ativo,True,OpenStreetMap
+osm_11407439656,Eletroposto Independente,-3.7248111,-38.5030188,Praça Doutor Antônio Prudente,Fortaleza,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_11423691566,Dr. Energia,-22.9366901,-43.062011,Estrada Francisco da Cruz Nunes,Niterói,RJ,Não Informado,Não Informada,Dr. Energia,yes,Ativo,True,OpenStreetMap
+osm_11509303840,CPFL,-22.8159597,-47.0725375,Avenida Érico Veríssimo,Campinas,SP,Não Informado,Não Informada,CPFL,Não Informado,Ativo,True,OpenStreetMap
+osm_11509303841,CPFL,-22.823067,-47.0689188,Rua Roxo Moreira,Campinas,SP,Não Informado,Não Informada,CPFL,Não Informado,Ativo,True,OpenStreetMap
+osm_11509303842,CPFL,-22.8846111,-47.0078098,Avenida Isaura Roque Quércia,Campinas,SP,Não Informado,Não Informada,CPFL,Não Informado,Ativo,True,OpenStreetMap
+osm_11512434387,Ostradamus,-27.7201556,-48.5635222,Rua Alberto Cavalheiro,Florianópolis,SC,Não Informado,Não Informada,Ostradamus,yes,Ativo,True,OpenStreetMap
+osm_11524381332,Eletroposto Independente,-3.8496665,-32.4256793,Rua Eurico Cavalcanti de Albuquerque,Fernando de Noronha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11524381344,Eletroposto Independente,-3.8351549,-32.4005121,BR-363,Fernando de Noronha,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11569158498,Eletroposto BR Super Carga,-3.7064793,-40.3369466,"Avenida Senador Fernandes Távora, 1182",Sobral,CE,Não Informado,Não Informada,BR Super Carga,yes,Ativo,True,OpenStreetMap
+osm_11766684441,Eletroposto Independente,-22.8532612,-45.2341682,Avenida Getúlio Vargas,Aparecida,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11766684442,Eletroposto Independente,-22.8528905,-45.2344847,Arcada Sul,Aparecida,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11769426400,Eletroposto Independente,-23.0233484,-45.5817961,"Rua Francisco da Rocha, 1700",Taubaté,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_11822399303,Eletroposto Independente,-15.5852875,-56.0781292,Avenida Senegal,Cuiabá,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12030154393,Auto Posto Pomerode,-26.7346049,-49.1747571,"Rua Hermann Weege, 523",Pomerode,SC,Type 2,Não Informada,Auto Posto Pomerode,Não Informado,Ativo,True,OpenStreetMap
+osm_12098687902,Restaurante Wunderwald,-26.8052885,-49.1655732,Rua XV de Novembro,Pomerode,SC,Type 2,Não Informada,Restaurante Wunderwald,Não Informado,Ativo,True,OpenStreetMap
+osm_12183014713,GWM Canopus,-15.6046755,-56.0842495,Avenida Fernando Corrêa da Costa,Cuiabá,MT,Não Informado,Não Informada,GWM,Não Informado,Ativo,True,OpenStreetMap
+osm_12190026409,ChargePoint,-23.524961,-46.6670982,Rua Jornalista Aloysio Biondi,São Paulo,SP,Não Informado,Não Informada,ChargePoint,Não Informado,Ativo,True,OpenStreetMap
+osm_12254080440,Eletroposto Independente,-26.914711,-49.0696802,Rua São Paulo,Blumenau,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12277259176,Intelbras Revendedora,-15.6104709,-56.0781757,Avenida Fernando Corrêa da Costa,Cuiabá,MT,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12288636505,Eletroposto Planeta Charge,-3.6896409,-40.3307032,Avenida Maria da Conceição Pontes de Azevedo,Sobral,CE,Não Informado,Não Informada,Planeta Charge,yes,Ativo,True,OpenStreetMap
+osm_12311370574,Eletroposto Independente,-17.7776719,-48.7538148,Rua Espírito Santo,Rio Quente,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12474286528,Eletroposto Independente,-23.5258218,-46.7326867,Rua Carlos Weber,São Paulo,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_12474324132,Eletroposto Independente,-23.5179967,-46.7270876,Avenida Ernesto Igel,São Paulo,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_12482436120,Fazzenda Park Resort,-26.9809194,-48.9284431,Rua João Mathias Zimmermann,Gaspar,SC,Type 2,Não Informada,Fazzenda Park Resort,Não Informado,Ativo,True,OpenStreetMap
+osm_12498963601,A02097 TRAFO TRI-F  FLR-01F2,-7.7831428,-38.0233385,BR-426;PE-337,Triunfo,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12511152974,Estação de recarga de veículos elétricos,-20.3894819,-40.494529,Avenida Florentino Avidos,Viana,ES,Não Informado,Não Informada,EDP,yes,Ativo,True,OpenStreetMap
+osm_12650382737,ChargePoint,-25.426782,-49.3084772,Alameda Ecológica Burle Marx,Curitiba,PR,Não Informado,Não Informada,Curitiba e Copel,yes,Ativo,True,OpenStreetMap
+osm_12660530308,Eletroposto Independente,-16.7095533,-49.2213754,Avenida Alphaville Flamboyant,Goiânia,GO,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_12741512739,Eletroposto BYD,-22.4210617,-44.3051398,"Avenida Fernando Bernadelli, 1219B",Porto Real,RJ,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,OpenStreetMap
+osm_12741512740,Eletroposto Graal Embaixador - DC - 120kw,-22.454522,-44.3894839,Rodovia Presidente Dutra,Resende,RJ,Não Informado,Não Informada,Eletrograal,yes,Ativo,True,OpenStreetMap
+osm_12741512741,Eletroposto Graal Embaixador AC - 22kw,-22.4545194,-44.3894589,Rodovia Presidente Dutra,Resende,RJ,Não Informado,Não Informada,Eletrograal,yes,Ativo,True,OpenStreetMap
+osm_12741515734,Eletroposto Mate Amargo,-22.4574155,-44.4237011,Avenida Doutor Jefferson Geraldo Bruno,Paraíso,RJ,Não Informado,Não Informada,Shell Recharge,yes,Ativo,True,OpenStreetMap
+osm_12741539017,Eletroposto Graal Itatiaia AC - 22kw,-22.4843572,-44.5473651,Rodovia Presidente Dutra,Itatiaia,RJ,Não Informado,Não Informada,Eletrograal,yes,Ativo,True,OpenStreetMap
+osm_12741539018,Eletroposto Graal Itatiaia DC - 120kw,-22.4843871,-44.5473597,Rodovia Presidente Dutra,Itatiaia,RJ,Não Informado,Não Informada,Eletrograal,yes,Ativo,True,OpenStreetMap
+osm_12748215721,Eletroposto Independente,-22.8702082,-42.3313273,Rua Costa Rica,Araruama,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12748227923,Eletroposto Independente,-22.8702544,-42.3310323,Rua Costa Rica,Araruama,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12829452596,Eletroposto Independente,-29.3609372,-50.8531997,Avenida das Hortênsias,Gramado,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_12909344207,Itapê Shopping,-23.5778329,-48.0387729,"Rua Doutor Coutinho, 733",Itapetininga,SP,Não Informado,Não Informada,Itapê Shopping,yes,Ativo,True,OpenStreetMap
+osm_12909344208,Eletroposto Cervejaria RT166,-23.6091247,-48.0621767,Avenida Cinco de Novembro,Itapetininga,SP,Não Informado,Não Informada,Cervejaria RT166,Não Informado,Ativo,True,OpenStreetMap
+osm_12909344209,Maggi BYD,-23.5792606,-48.0294775,Avenida Doutor José de Almeida Carvalho,Itapetininga,SP,Não Informado,Não Informada,Maggi BYD,yes,Ativo,True,OpenStreetMap
+osm_12909344218,Hotel Universitário,-23.5903158,-48.0493273,Rua General Glicério,Itapetininga,SP,Não Informado,Não Informada,Hotel Universitário,Não Informado,Ativo,True,OpenStreetMap
+osm_13043895695,Shopping Park Europeu,-26.8862704,-49.068608,"Via Expressa Paul Fritz Kuehnrich, 1600",Blumenau,SC,Type 2,Não Informada,Shopping Park Europeu,Não Informado,Ativo,True,OpenStreetMap
+osm_13064569852,Solar Pro Engenharia,-26.7187095,-49.1664506,Rua Criciúma,Pomerode,SC,Type 2,Não Informada,Solar Pro Engenharia,no,Ativo,True,OpenStreetMap
+osm_13064664032,Eletroposto Independente,-26.7064365,-49.1622908,"Rua Presidente Costa e Silva, 740",Pomerode,SC,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13075193628,Eletroposto Independente,-4.3545581,-39.310341,Rua João Pinto Damasceno,Canindé,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13099363312,SAU 6,-23.0589177,-47.8230715,"Rodovia Marechal Rondon, km 172.6",Laranjal Paulista,SP,Não Informado,Não Informada,Rodovias do Tietê,Não Informado,Ativo,True,OpenStreetMap
+osm_13099952990,Estação de recarga de veículos elétricos,-20.3116544,-40.3035515,Rua Neves Armond,Vitória,ES,Não Informado,Não Informada,EDP,yes,Ativo,True,OpenStreetMap
+osm_13104399059,Eletroposto Independente,-29.6733036,-51.1379515,"Avenida Nações Unidas, 334",Novo Hamburgo,RS,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_13106395232,Fort Atacadista,-29.6765674,-51.138982,Avenida Nações Unidas,Novo Hamburgo,RS,Não Informado,Não Informada,Fort Atacadista,no,Ativo,True,OpenStreetMap
+osm_13151253783,Eletroposto Independente,-22.7377256,-46.9267978,Avenida Doutor Jorge Duprat Figueiredo,Pedreira,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13165579454,Eletroposto Independente,-23.4709014,-47.4287262,"Rodovia Senador José Ermírio de Moraes, 1425",Sorocaba,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_13171219870,Auto Posto Martendal,-26.7123388,-48.9081503,"Rua Vereador Crisóstomo Gesser, 799",Luiz Alves,SC,Não Informado,Não Informada,Auto Posto Martendal,Não Informado,Ativo,True,OpenStreetMap
+osm_13189098501,Phone charging station,-23.5249094,-46.6675212,Rua Jornalista Aloysio Biondi,São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13197897172,1,-23.5200258,-47.4640817,Rua José Maria Hannickel,Sorocaba,SP,Não Informado,Não Informada,1,no,Ativo,True,OpenStreetMap
+osm_13207252416,Incharge,-22.8739268,-45.2651042,Rodovia Vereador Abel Fabrício Dias,Aparecida,SP,Não Informado,Não Informada,Incharge,Não Informado,Ativo,True,OpenStreetMap
+osm_13233697801,Phone charging station,-25.5205347,-54.5636522,Travessa Rodoviário Internacional,Foz do Iguaçu,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13233760901,Eletroposto Independente,-24.792224,-53.2889632,BR-369,Corbélia,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13234904906,Chargeon Atacadão,-23.9816693,-46.2655753,"Rodovia Cônego Domênico Rangoni, 191",Guarujá,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13234906108,Power2Go Hotel Ilhas da Grécia,-23.9898933,-46.2460784,"Rua Marivaldo Fernandes, 144",Guarujá,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13234906214,Moby - Recarga de veículos,-23.9941471,-46.2707017,"Avenida Primavera, 214",Guarujá,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13235612198,Shell Recharge Solutions,-23.667906,-46.6780725,Rua José Homero Roxo,São Paulo,SP,Não Informado,Não Informada,Shell Recharge Solutions,Não Informado,Ativo,True,OpenStreetMap
+osm_13271282349,Rissul,-29.6336509,-50.8355055,Rua Vera Cruz,Parobé,RS,Não Informado,Não Informada,Rissul,no,Ativo,True,OpenStreetMap
+osm_13274382551,Eletroposto BYD,-2.4278757,-54.7349356,Rodovia Santarém-Cuiabá,Santarém,PA,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,OpenStreetMap
+osm_13274423523,Eletroposto BYD,-2.4278199,-54.7349266,Rodovia Santarém-Cuiabá,Santarém,PA,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,OpenStreetMap
+osm_13296558941,Ecofortte Eletropostos - Mini Preço,-25.4915369,-49.2145927,Avenida Comendador Franco,Curitiba,PR,Não Informado,Não Informada,Ecofortte,yes,Ativo,True,OpenStreetMap
+osm_13331914228,EcoCarga,-8.1137005,-35.2418783,Rodovia Luiz Gonzaga,Vitória de Santo Antão,PE,Não Informado,Não Informada,EcoCarga,yes,Ativo,True,OpenStreetMap
+osm_13373116017,Shell Recharge,-26.9254072,-49.0571684,Rua 7 de Setembro,Blumenau,SC,Type 2,Não Informada,Shell Recharge,yes,Ativo,True,OpenStreetMap
+osm_13373615091,Eletroposto Joy Energy - Recife,-8.0867973,-34.8883314,Avenida República Árabe Unida,Recife,PE,Não Informado,Não Informada,Joy Energy - Recife,yes,Ativo,True,OpenStreetMap
+osm_13376864808,Eletroposto Greiner,-29.3230303,-49.7268848,Rua Jovelino Martins de Souza,Passo de Torres,SC,Não Informado,Não Informada,Greiner,Não Informado,Ativo,True,OpenStreetMap
+osm_13376876732,Eletroposto Greiner,-29.3230303,-49.7268848,Rua Jovelino Martins de Souza,Passo de Torres,SC,Não Informado,Não Informada,Greiner,Não Informado,Ativo,True,OpenStreetMap
+osm_13381987589,Eletroposto Independente,-10.438752,-45.1729123,Rua José Pacheco Cavalcante,Corrente,PI,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13419209101,Eletroposto Independente,-15.8134425,-48.0166957,Rua 4A Blocos 1 e 2 Travessa 02,Vicente Pires,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13448068623,UMC,-18.9465329,-48.2697358,Rua Rafael Marino Neto,Uberlândia,MG,"Type 2, CCS2, CHAdeMO",Não Informada,UMC,yes,Ativo,True,OpenStreetMap
+osm_13459411401,Eletroposto Independente,-15.8320513,-48.0171708,Avenida Parque Águas Claras,Águas Claras,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13473583951,Eletroposto Independente,-12.8967464,-38.4462525,Desembarque (Térreo),Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13512298012,Eletroposto,-29.9935912,-50.1446132,"Avenida Fernandes Bastos, 1527",Tramandaí,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13512315004,Eletroposto,-29.9957619,-50.1468755,"Avenida Fernandes Bastos, 1777",Tramandaí,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13512318028,Eletroposto,-29.8882224,-50.276322,"Rua Lateral, 1060",Osório,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13512340416,Eletroposto,-29.8994221,-50.2766186,"ERS-030A, 974",Osório,RS,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_13518459470,Eletroposto,-29.3309725,-49.7848597,Rodovia Governador Mário Covas,Torres,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13527722466,Eletroposto Nobile Suítes Uberlândia,-18.9176184,-48.2648381,Rua Vitalino Rezende do Carmo,Uberlândia,MG,Não Informado,7 kW,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13568352401,Eletroposto Independente,-15.8470974,-47.8929176,QI 5,Lago Sul,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13585736682,Via Porto BYD,-29.903374,-50.2724305,Rua Tiradentes,Osório,RS,Não Informado,Não Informada,Via Porto BYD,no,Ativo,True,OpenStreetMap
+osm_13592371235,Eletroposto Independente,-23.5359326,-47.0924331,Rua Paulo Arnaldo Pereira Leite,São Roque,SP,Type 2,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13593234318,Sim,-29.9443733,-50.9475762,Freeway,Gravataí,RS,Não Informado,Não Informada,Sim,no,Ativo,True,OpenStreetMap
+osm_13593487658,Eletroposto Independente,-27.0977851,-52.6444943,Avenida São Pedro - E,Chapecó,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13633308072,Eletroposto,-23.0008304,-43.3516362,Rua Maria Philomena Lages,Rio de Janeiro,RJ,Não Informado,Não Informada,BR,yes,Ativo,True,OpenStreetMap
+osm_13685153892,Eletroposto Independente,-13.0046089,-41.369063,Rua José Luiz Gama,Mucugê,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13692209781,BR Super Carga - Muda Hotel,-3.738329,-40.9937507,Rua Prefeito Cirilo Coelho Moita,Tianguá,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13692209786,Planeta Charge - Supermercado Nidobox,-3.7629511,-38.5457294,"Rua Queirós Ribeiro, 485",Fortaleza,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13692216876,BR Super Carga - Rest. Raizes do Litoral,-3.4653031,-39.1592498,Rota do Sol Poente,Paraipaba,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13692216877,Voltz - Paraipaba,-3.4649149,-39.1551018,Rota do Sol Poente,Paraipaba,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13692235370,VOLTZ DC - Cometa Maraponga,-3.7920621,-38.5672742,"Avenida Godofredo Maciel, 1945",Maraponga,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13692236135,Voltz - Cometa Kennedy,-3.7298337,-38.5688567,Avenida Governador Parsifal Barroso,Fortaleza,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13748836969,Eletroposto Independente,-7.2162711,-39.3177871,Avenida Carlos Cruz,Juazeiro do Norte,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13749004769,Pé de Serra,-5.0458509,-39.0490231,Rodovia do Algodão,Balança,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13749130509,Zee Flow Casa Grande,-4.9961131,-39.0317684,Estrada do Algodão,Quixadá,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13749141410,Ello Hotel,-6.3837951,-39.266514,Rodovia Deputado Adahil Barreto Cavalcante,Iguatu,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13768795530,Eletroposto Independente,-29.8627203,-51.1804084,Rodovia BR-116,Esteio,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13784743672,Eletroposto Independente,-29.6365259,-51.0105514,Avenida 20 de Setembro,Sapiranga,RS,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13785644140,Posto Ceará 1,-3.7867066,-38.6978344,Rodovia Presidente Juscelino Kubitschek,Caucaia,CE,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13806990820,BMW,-18.9265466,-48.2590541,Avenida João Naves de Ávila,Uberlândia,MG,Não Informado,Não Informada,BMW,Não Informado,Ativo,True,OpenStreetMap
+osm_13846858158,Eletroposto Independente,-23.1169779,-47.218282,Alameda Filtros Mann,Indaiatuba,SP,Não Informado,Não Informada,Independente,no,Ativo,True,OpenStreetMap
+osm_13852199227,Eletroposto Independente,-25.5305846,-49.0864145,Rua Vanderlei Moreno,São José dos Pinhais,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13852199228,Eletroposto Independente,-25.5306081,-49.0863326,Rua Vanderlei Moreno,São José dos Pinhais,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13858896779,Eletroposto Independente,-17.8023379,-50.9226822,Rua Nizo Jaime de Gusmão,Rio Verde,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13863616366,Eletroposto Independente,-15.8830555,-47.8216895,Ciclovia Estrada Parque Contorno,Jardim Botânico,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13927611655,Elétrica Area,-23.5334013,-47.4656809,Avenida Professora Izoraida Marques Peres,Sorocaba,SP,Não Informado,Não Informada,Elétrica Area,no,Ativo,True,OpenStreetMap
+osm_13927611656,Eletroposto Independente,-23.5396613,-47.467284,Rua Antonio Perez Hernandez,Sorocaba,SP,Não Informado,Não Informada,Independente,yes,Ativo,True,OpenStreetMap
+osm_13927611657,Volvo,-23.4813792,-47.4209347,Avenida Engenheiro Carlos Reinaldo Mendes,Sorocaba,SP,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
+osm_13927611658,Padaria Real,-23.4809832,-47.420404,"Avenida Engenheiro Carlos Reinaldo Mendes, 2650",Sorocaba,SP,Não Informado,Não Informada,Padaria Real,no,Ativo,True,OpenStreetMap
+osm_13927611671,Hospital Doutor Miguel Soeiro,-23.5321068,-47.4961012,Rua Antonia Dias Petri,Sorocaba,SP,Não Informado,Não Informada,Hospital Doutor Miguel Soeiro,no,Ativo,True,OpenStreetMap
+osm_13974291807,Eletroposto Independente,-12.9968048,-38.4440207,Avenida Octávio Mangabeira,Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_13974293919,Eletroposto Independente,-12.981747,-38.449861,Avenida Tancredo Neves,Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_371432992,Go Eletric,-23.5684088,-46.6117302,"Avenida Dom Pedro I, 360",São Paulo,SP,Não Informado,Não Informada,Go Eletric,yes,Ativo,True,OpenStreetMap
+osm_684814865,Enel,-22.7996977,-42.9823641,Rua Gil Vicente,Santa Luzia,RJ,Não Informado,Não Informada,Enel,Não Informado,Ativo,True,OpenStreetMap
+osm_804451196,Posto BR São Lucas,-3.0923667,-59.987901,"Avenida Cosme Ferreira, 130",Manaus,AM,Não Informado,Não Informada,Tipo 1 (SAE J1772),no,Ativo,True,OpenStreetMap
+osm_908604269,Go Electric,-23.4826403,-47.4394111,Avenida Pereira da Silva,Sorocaba,SP,Não Informado,Não Informada,Go Electric,yes,Ativo,True,OpenStreetMap
+osm_909127223,Enel,-23.5485132,-46.7359186,"Avenida Marechal Mário Guedes, 292",São Paulo,SP,Não Informado,Não Informada,Enel,Não Informado,Ativo,True,OpenStreetMap
+osm_1023718704,Eletroposto Independente,-8.0376808,-34.8988211,Avenida Santos Dumont,Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1045130108,UFSC,-27.6020001,-48.5202856,Rua Engenheiro Agrônomo Andrey Cristian Ferreira,Florianópolis,SC,Não Informado,Não Informada,UFSC,Não Informado,Ativo,True,OpenStreetMap
+osm_1045130109,Fundação CERTI,-27.6020949,-48.5190258,Rua Engenheiro Agrônomo Andrey Cristian Ferreira,Florianópolis,SC,Não Informado,Não Informada,Fundação CERTI,Não Informado,Ativo,True,OpenStreetMap
+osm_1049788965,Eletroposto Fiep,-25.446158,-49.2446513,Rua Alberto Twardowski,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1049788966,Eletroposto Fiep - Lactec,-25.4477217,-49.2431776,Rua Professor Luiz Carlos Pereira da Silva,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1049788967,Eletroposto Fiep - Lactec,-25.4469438,-49.2429192,Avenida Prefeito Lothário Meissner,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1189724320,Eletroposto Independente,-2.4954529,-44.2618898,Ciclovia Parque do Rangedor,São Luís,MA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1247733767,Eletroposto Eletric Mobility Brasil,-12.8942304,-38.4447411,Via Regional,Salvador,BA,Não Informado,Não Informada,Eletric Mobility Brasil,Não Informado,Ativo,True,OpenStreetMap
+osm_1249452241,Eletroposto Independente,-25.4184557,-50.7609033,BR-277,Irati,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1306587187,Eletroposto Independente,-25.4292255,-49.2797971,"Rua Visconde de Nacar, 716",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1329773740,EvoltBR,-23.6189051,-46.602188,Rua Vergueiro,São Paulo,SP,Não Informado,Não Informada,EvoltBR,yes,Ativo,True,OpenStreetMap
+osm_1340138202,Eletroposto,-20.5026955,-54.6143561,Rua UFMS,Campo Grande,MS,Não Informado,Não Informada,UFMS,no,Ativo,True,OpenStreetMap
+osm_1349984736,BR Properties,-23.6083194,-46.6964068,Rua Hans Oersted,São Paulo,SP,Type 2,Não Informada,BR Properties,Não Informado,Ativo,True,OpenStreetMap
+osm_1364932977,Eletroposto Independente,-23.4691413,-46.4091543,Rodovia Ayrton Senna,Guarulhos,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1373715702,Eletroposto Volvo,-5.5870973,-36.9497804,Avenida Poeta Renato Caldas,Assu,RN,Não Informado,Não Informada,Volvo,no,Ativo,True,OpenStreetMap
+osm_1375420516,Eletroposto Independente,-19.959278,-44.1915799,Via Monte Carmo Shopping,Betim,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1415079809,Eletroposto Independente,-23.5737453,-46.642004,Avenida Bernardino de Campos,São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1443051940,Eletroposto Independente,-9.3921314,-40.5250173,Avenida José Santana,Petrolina,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1455794765,Eletroposto,-30.4078417,-51.4539657,Rodovia General Bento Gonçalves,Barra do Ribeiro,RS,Não Informado,generator,Independente,yes,Ativo,True,OpenStreetMap
+osm_1499999686,Eletroposto Marzagão Caldas Novas | LOGI CHARGE,-17.9831712,-48.6375505,GO-139,Setor central,GO,Não Informado,Não Informada,Eletroposto Marzagão Caldas Novas | LOGI CHARGE,yes,Ativo,True,OpenStreetMap
+osm_1508000372,Eletroposto FastEV Charging Station,-23.2284616,-45.9127376,Avenida Cassiano Ricardo,São José dos Campos,SP,Não Informado,Não Informada,FastEV Charging Station,Não Informado,Ativo,True,OpenStreetMap
+osm_1510270560,Eletroposto Evvo - Rodoferroviária,-25.4361001,-49.2548858,Avenida Presidente Affonso Camargo,Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,OpenStreetMap
+osm_1512166535,Eletroposto Rapidin Eletroposto,-3.7368436,-38.5075326,"Avenida Barão de Studart, 1480",Fortaleza,CE,Não Informado,Não Informada,Rapidin Eletroposto,Não Informado,Ativo,True,OpenStreetMap
+osm_1529278429,Eletroposto ChargeOn,-20.8330157,-49.3553198,Avenida Doutor Hubert Richard Pontes,São José do Rio Preto,SP,Não Informado,Não Informada,ChargeOn,yes,Ativo,True,OpenStreetMap
+gplaces_ChIJG5NPUWNXzpQRAgplS29YEZI,Estação de recarga da Tupi,-23.5375817,-46.6740357,"R. Dr. Franco da Rocha, 664",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ41iQeyP_zpQRIk2NrECcstQ,Estação de recarga da Posto Nações Unidas - Altino,-23.5236381,-46.762786,"Av. das Nações Unidas, 648",Osasco,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJUQF-FZxezpQRr0Iw_9KJkHs,Estação de recarga da EZVolt,-23.5600478,-46.5674649,"R. Oiti, 72",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJvZ12EABfzpQR1Yn5_hxgd74,Estação de recarga da Voltta,-23.522921399999998,-46.565748899999996,"R. Sd. Francisco Franco, 48",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ2zFVsrJQzpQRLTJczvoL9XQ,Estação de recarga da Shell Recharge,-23.6026277,-46.6806615,Av. dos Bandeirantes,São Paulo,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJP51KG5tYzpQRqHdpGDr37i4,Estação de recarga da Estapar,-23.5120051,-46.6204706,"Av. Zaki Narchi, 500",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJUUzeiSpazpQRJcAR0-G-XxY,Estação de recarga da Tupi,-23.5870768,-46.6343235,"Rua Vergueiro, 2962",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJfb5F-H9XzpQRvFNmol8Rm4A,Estação de recarga da Tupi,-23.5609419,-46.6710375,"R. Oscar Freire, 1206",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJcxnovrNbzpQR-x3D46Q_1ds,Estação de recarga da Simpar,-23.609483899999997,-46.628495,"Av. Prof. Abraão de Morais, 888",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJZUEFXjtZzpQR6ABfl7u0Thw,Estação de recarga de veículos elétricos,-23.5422002,-46.665271600000004,"Av. Pacaembu, 1866",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJfY_3Q0hczpQR69tpKYb9dkQ,Estação de recarga de veículos elétricos,-23.580355599999997,-46.571594,"R. Isabel Garcia, 89",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJj8eYVNBZzpQRTAtRvYvkK18,Estação de carregamento de veículos elétricos,-23.5667579,-46.6505009,"Av. Paulista, 777",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJrX5P-CxWzpQR0ESRWTnTHR8,Estação de recarga da Shell Recharge,-23.543350399999998,-46.711683199999996,Av. São Gualter,São Paulo,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJB6G9J3hXzpQRaqt0t5jXT_4,Estação de recarga da MCA Eletric,-23.565648499999998,-46.6801926,"Av. Rebouças, 2083",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJt1_dWwBDzpQRYE1wGfyVwSU,Estação de recarga da Shell Recharge,-23.638562099999998,-46.533565800000005,"Av. dos Estados, 3885",Santo André,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJx6gT5chZzpQRMdy7Hf2WWy4,Estação de recarga da EZVolt,-23.5627247,-46.654342299999996,"Av. Paulista, 1374",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ3a9RB1X4zpQRXrQa01hdO1Y,Estação de recarga de veículos elétricos,-23.4990129,-46.7071434,"Av. Gen. Edgar Facó, 783",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJfTzfXqlbzpQRxEjN0caciLE,Estação de recarga da Shell Recharge,-23.6180146,-46.6269395,"Rua Ribeiro Lacerda,Rod. dos Imigrantes, 940",São Paulo,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJpU9a3cVYzpQRf5JiuRSPihY,Estação de recarga da Paris,-23.523979699999998,-46.6042121,"Av. Pres. Castelo Branco, 3756",São Paulo,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJzxPnxVZ5mQARM_0eOO1w3rs,Estação de recarga da EZVolt,-22.8572823,-43.247989,"Av. Brasil, 6355",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJewSXROF_mQARuWZkCoXUVxw,Estação de recarga da Rede JB,-22.9555589,-43.1899363,"R. Mena Barreto, 122",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ76nPEQCbmQAR3_3PdwKqIYk,Estação de recarga de veículos elétricos,-22.813754199999998,-43.0736649,"BR-101, km 313",São Gonçalo,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJK9wzFrDbmwARgaOrkvn1zSQ,Estação de recarga da EZvolt,-23.0005444,-43.376547099999996,"Av. das Américas, 6161",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJNedpFP9-mQARD4COBWaVBww,Estação de recarga da EZvolt,-22.9108339,-43.2168499,"Av. Osvaldo Aranha, 11",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJH0SlnPZ_mQARZ_Nqdt41DXM,Estação de recarga da Shell Recharge,-22.9494951,-43.177791299999996,"Av. Reporter Nestor Moreira, 41",Rio de Janeiro,RJ,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJcTIFQQCPmQARrQTh50QOsJc,Estação de recarga de veículos elétricos,-22.8708903,-43.0044134,3,São Gonçalo,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJX7xVy-9-mQARYJG6R2TeXvE,Estação de recarga da EZVolt,-22.8988315,-43.223058699999996,"R. São Luiz Gonzaga, 362",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ3YuIIAB7mQARU1d53FjdtlY,Estação de carregamento para veículos elétricos,-22.845237299999997,-43.2639256,"R. Angélica Mota, 250",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJmQJMVuhkmQARG4R5V4fjw3E,Estação de recarga da Shell Recharge,-22.8024098,-43.351085999999995,"Rod. Pres. Dutra, 1997",São João de Meriti,RJ,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJQ9ZGIwh_mQARoD77DXXXSek,Estação de recarga da Zletric,-22.9427861,-43.18154570000001,"Praia de Botafogo, 242",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJX1kQHA9_mQARg9hQLrsJLaA,Estação de recarga da Vibra,-22.911055899999997,-43.2016042,"Rua Correia Vasques, 250",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJk4EqAId_mQARAAKypLPffKY,Estação de recarga da Tupi,-22.932623200000002,-43.1771375,"R. do Catete, 359",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJHZp7IQDdmwARNDdLqB7UGbM,Estação de recarga de veículos elétricos,-23.004391599999998,-43.430094,"Av. das Américas, 12700",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJxy-UV29_mQART185UH5AyFo,Estação de recarga da EZVolt,-22.9093374,-43.18449450000001,"Av. República do Chile, 330",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJvaxPYACDmQARdXucDGCaDCc,Estação de recarga de veículos elétricos,-22.896840899999997,-43.123706999999996,"Rua Quinze de Novembro, 8",Niterói,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJex44vOd_mQARyJFNVgP6Wrc,Estação de carregamento para veículos elétricos,-22.9207659,-43.2279853,"R. Almirante Cochrane, 148",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJyUac9WF_mQARtrFXGx4k5Pg,Estação de recarga da EZVolt,-22.9115503,-43.1758074,"Pç. Mahatma Gandhi, s/n, Centro, Rio de Janeiro, RJ, Cep: 20021-280",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJh7i9CF9mmQARMmGQPNa8vyA,Estação de recarga da BYD,-22.762805099999998,-43.4285839,"Av. Carlos Marques Rollo, 951",Nova Iguaçu,RJ,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJs9G9YG3VmwARUTJYEYT1THA,Eletroposto Posto Lagoa,-22.9727317,-43.2035293,"Av. Epitácio Pessoa, S/N",Rio de Janeiro,RJ,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJJbLyYXyXpgARHN6KojTB0D4,Estação de recarga da EZVolt,-19.938751099999998,-43.94743390000001,"Av. Prudente de Morais, 303",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJmzmFaQCRpgARhLoFGZAKgsw,Estação de recarga da EletroBidu,-19.871803999999997,-43.9799143,"R. Des. Paula Mota, 31",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJFcqEM4iQpgARankZ4dYB8qU,Estação de recarga da BYD,-19.868626300000003,-43.9554262,"AV. PRESIDENTE ANTONIO CARLOS. 4620, LOJA 1",Belo Horizonte,MG,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJZXI5-tGZpgARVVKNWREKUeY,Estação de recarga da BYD,-19.944381099999998,-43.9345966,"Av. Nossa Sra. do Carmo, 506",Belo Horizonte,MG,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJXfRdBACjpgARcTtD1_WRFPc,Estação de recarga da Shell Recharge,-19.9861511,-43.9399905,"Rod. Januário Carneiro, 8760",Nova Lima,MG,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJteWK-ESXpgARyDcEHyNkd04,Estação de recarga da Shell Recharge,-19.917534999999997,-43.9555303,"Av. do Contorno, 10325",Belo Horizonte,MG,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJl5Cxv2uapgARJCJb6tMqu6Y,Estação de recarga da Turbo Recarga,-19.8916136,-43.9280736,"Av. Cristiano Machado, 1794",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJKXhtGqqipgAR9A4Y0xOmbKs,Estação de recarga da BYD,-19.9863413,-43.939466599999996,"Rod. Januário Carneiro, 8620",Nova Lima,MG,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJUX8lZ8mQpgARy3MWutyyBmw,Estação de recarga da BYD,-19.897024200000004,-43.9662031,Avenida Presidente Carlos Luz,Belo Horizonte,MG,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJtajLcr-XpgARjIwmnrPYQTE,Estação de recarga da BYD,-19.957644,-43.9654814,"Av. Barão Homem de Melo, 2421",Belo Horizonte,MG,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJZfSy1cWQpgARKZWe8zqsBXs,Estação de recarga da Tupi,-19.890002,-43.967572399999995,Estacionamento,Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJtdUA65uXpgARxBA4XOYLBIw,Estação de carregamento para veículos elétricos,-19.9652471,-43.960968699999995,"Av. Barão Homem de Melo, 3400",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJcdFkqsa_pgARCS_aNR-7p-8,Estação de recarga da Shell Recharge,-19.9585705,-44.0720854,Km 482,Betim,MG,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJZZYHEACRpgAR1QZLt6ny4tA,Estação de recarga de veículos elétricos,-19.891487899999998,-43.9779246,"Rua Professor José Vieira de Mendonça, 45",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJVf4LI8SXpgARQJ4xk0JgYoU,Estação de carregamento para veículos elétricos,-19.9195895,-43.956945600000005,"Av. do Contorno, 10147",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJNc9HAjuRpgARyq4vWkSMdgo,Estação de recarga da Porto Seguro - Grecar Centro Automotivo,-19.881822,-43.993342999999996,"Av. Pres. Tancredo Neves, 3885",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJCe0mMeCZpgARR3kuDJTQ3hg,Estação de recarga da Tupi,-19.926151,-43.942834,"Av. Bias Fortes, 790",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJX-sgBwCZpgARiNdurr8_D-E,Estação de recarga de veículos elétricos,-19.930490799999998,-43.9305671,"R. dos Aimorés, 647",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJKZrmgRmYpgARxLKZPIsqPg8,Estação de recarga da Tupi,-19.9721141,-43.936501,"Av. Professor Cristóvam dos Santos, 65",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJL72KRvO9pgARMfJbYw6opQU,Estação de recarga da Ipiranga Turbo,-19.971985099999998,-44.001528799999996,"Av. Dep. Álvaro Antônio, 447",Belo Horizonte,MG,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ9-QOCb7j3JQReHZrZaJVrlg,Copel Estação de Carregamento,-25.4348287,-49.284304000000006,"Alameda Dr. Carlos de Carvalho, 1007",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJzR7tLHLj3JQRTVQ3E5e11L8,Estação de recarga da Energia Atual,-25.467115699999997,-49.2997391,"Av. Presidente Arthur da Silva Bernardes, 1730",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJK_R1rSnk3JQRdACLdpW_vjw,Estação de recarga da Flórida - Cabral,-25.4062292,-49.251041799999996,"R. Dep. Joaquim José Pedrosa, 425",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJH04EXl7k3JQRXVEtzJg8Bx4,Estação de recarga de veículos elétricos,-25.4432735,-49.2617949,"R. Piquiri, 170",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJj11r7Inh3JQRO9OwSHZKkTw,Estação de carregamento para veículos elétricos,-25.432693,-49.339064199999996,"Rua José Izidoro Biazetto, 158",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJKy6rOQ773JQRJLP_PA3juvM,Estação de recarga da Ev Eletropostos,-25.5150252,-49.257045899999994,"R. Francisco Derosso, 3073",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJM_MOh4Hj3JQR1fR11qt3MFA,Estação de recarga da Shell Recharge,-25.454171499999998,-49.289108899999995,"Av. Rep. Argentina, 900",Curitiba,PR,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ7UWKBQDj3JQRC0YGQo_0-yk,Estação de recarga da Inwatts,-25.4707304,-49.3532191,"R. do Semeador, 65",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ34t-K4_83JQRGTYaiddyxMQ,Estação de recarga da Pátio Sagrado - Pinheirinho,-25.5319218,-49.2965125,"Alameda Nossa Sra. do Sagrado Coração, 218",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJgScds5Lj3JQRBkyVM-g3brM,Estação de recarga da Shell Recharge,-25.439017,-49.2954935,"Alameda Dr. Carlos de Carvalho, 2050",Curitiba,PR,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJraCpkQHl3JQR4ip6sBhZR5g,Estação de recarga de veículos elétricos,-25.444543099999997,-49.241884299999995,"Av. Prefeito Lothário Meissner, 350",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJp_S5AJ3w3JQRc_wyOI6uMu0,Estação de recarga da Cia Charge,-25.5170572,-49.200826,"Av. das Torres, 1440",São José dos Pinhais,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJZ2RPu2L83JQR7WQEwKrFlpU,Estação de recarga da Sicolor,-25.537123100000002,-49.2951772,"R. Nicola Pellanda, 938",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJfRVzkWjk3JQRFsgGlXfCzm4,Eletroposto Shopping Estação,-25.438243999999997,-49.267219,"Av. Sete de Setembro, 2775",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ16A7w1L73JQRYnqh3V_ZSbs,Estação de carregamento para veículos elétricos,-25.491985,-49.2758259,"R. Major Vicente de Castro, 2777",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJP2lOgp7w3JQRtR2vUC1B3bQ,Estação de recarga da Cia Charge,-25.5191032,-49.2002692,"Av. das Torres, 1680",São José dos Pinhais,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJlccyWhfk3JQRvTFrrPREN6Q,Estação de recarga de veículos elétricos,-25.4201783,-49.2681469,"Av. Cândido de Abreu, 468",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ5xcVHQDj3JQRsr_bmDwtT4s,Estação de carregamento para veículos elétricos,-25.431711399999998,-49.3001487,"R. Padre Agostinho, 2122",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJt9afir_j3JQRz_XPun1zNKQ,Estação de recarga da BYD,-25.4421768,-49.3057808,"R. Gen. Mário Tourinho, 1215",Curitiba,PR,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ1R9Qcmrk3JQRDBaciUN9gus,Estação de carregamento ENERGIA ATUAL,-25.437925999999997,-49.354242199999995,"R. Padre José Lopacinski, 567",Curitiba,PR,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJdS7oQQBxGZURqcHDyJBovC0,Estação de recarga de veículos elétricos Castelo Charge 160kW,-29.971114600000003,-51.171248299999995,"Av. Jaime Vignoli, 1053",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJp6K9fxF3GZURlVmHBwRkO6g,Estação de recarga da Esquina do Futuro,-30.027984699999998,-51.1657626,"Av. Dr. Nilo Peçanha, 2626",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJw7g13eV5GZURnwUY9J1gE6o,Estação de recarga da Esquina do Futuro,-30.002045700000004,-51.1885185,"Av. Sertório, 1700",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJOVmZBAB3GZUROj8LrIBLEq8,Estação de recarga de veículos elétricos,-30.0577813,-51.1773441,"Jardim Botânico, Porto Alegre",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJqZ42CQB5GZURbgxxZ-TOIcI,Estação de recarga da Esquina do Futuro,-30.0599485,-51.2276939,abastecedora de combustíveis,Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJlRW-B4V5GZURF304ORhrbog,Estação de recarga de veículos elétricos,-30.047508399999998,-51.197572,"Av. Ipiranga, 3171",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJk78z7u95GZURzns9z4k0WAQ,Estação de recarga da BYD,-29.999263199999998,-51.1906241,"Av. Ceará, 370",Porto Alegre,RS,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJJWlgWM55GZUR4hFHr_Bpr5c,Estação de recarga de veículos elétricos,-30.021891999999998,-51.192451999999996,"R. 24 de Outubro, 1611",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJWYHU_w95GZURDPO6EZ1RU84,Estação de recarga da Garage Gigante,-30.0321014,-51.2318634,"R. Riachuelo, 981",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJxZLqEgB5GZURy2MSXc3llhA,Estação de recarga da Esquina do Futuro,-30.041338200000002,-51.204265,"R. Silva Só, 371",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJm7hHRABxGZUR6jNnmKPWlLU,Estação de recarga da Esquina do Futuro,-29.9231874,-51.1731349,"Av. Santos Ferreira, 614",Canoas,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJI7V1sgFwGZURHYpYZw_IPCo,Estação de recarga da BYD,-29.9073898,-51.1766116,"Av. Getúlio Vargas, 6551",Canoas,RS,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJpy1XK6V5GZUROlhMJhjRYcM,Estação de recarga da Luminova,-30.022945099999998,-51.2108722,"R. Ramiro Barcelos, 430",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJBX4eEZ-CGZUR_HZbMFwm1w0,Estação de recarga da Esquina do Futuro,-30.0742499,-51.2021643,"Av. Prof. Oscar Pereira, 2728",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJeZ_4HXWCGZURLEtcwXLvIu8,Estação de recarga da Tupi,-30.0868118,-51.240578,"Av. Icaraí, 910",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJkde5VQBzGZURmSCTuPYS0Ic,Estação de recarga da Esquina do Futuro,-29.936941699999995,-51.080672799999995,"Av. Gen. Flores da Cunha, 3827",Cachoeirinha,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJX7ZYJs95GZURapj2INpFcKY,Estação de recarga da EZVolt,-30.021580600000004,-51.1943323,R. 24 de Outubro,Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJzcC6HYV3GZURkbS3eJe_vGk,Estação de recarga da Esquina do Futuro,-30.0283514,-51.170749,"Av. Dr. Nilo Peçanha, 2201",Porto Alegre,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJEd2jyBNwGZURbyRxS2fJYYE,Estação de carregamento para veículos elétricos,-29.9163605,-51.1644958,"Av. Farroupilha, 4545",Canoas,RS,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJffpkEADJyJQRVWWYwhCGVrw,Estação de recarga de veículos elétricos,-22.8956463,-47.0610441,"Av. Orosimbo Maia, 646",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ7_y33Icxz5QRh8dMXnSLlfw,Estação de recarga da Shell Recharge,-23.1047941,-47.010239899999995,"Rod. dos Bandeirantes, Km 72",Itupeva,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJuWkh-djIyJQRmPHH7WwDWFI,Shell Recharge Estação de Carregamento,-22.9301321,-47.070635599999996,Av. Benedicto Campos,Campinas,SP,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJv-PrIADJyJQRmOox6f0vwEE,Estação de recarga de veículos elétricos,-22.896306,-47.0597765,"Av. Anchieta, 827",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJj-soa8nIyJQRLylIymOGs0c,Estação de recarga da Alliance Power Solutions,-22.914347,-47.064352,"Av. João Jorge, 464",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJifltAVW4yJQR0XZ3G-wpTxo,Estação de recarga da Rose Pisos,-22.891869099999997,-47.1730282,"Rod. Jorn. Francisco Aguirre Proença, S/N",Hortolândia,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ37YbPZRLz5QR3ECDR9jS9aI,NCF - EletroPosto - Recarga Rapidá,-23.096619,-47.211321999999996,"R. Primo José Mattioni, 226",Indaiatuba,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJSwHA5W_HyJQRiVDVkuZmmkw,Estação de carregamento de veículos elétricos,-22.884181599999998,-47.0679313,"R. Dom Pedro I, 380",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ5xdTf1_PyJQRLhoXMdd5k7I,Estação de recarga da Volvo Cars,-22.884510199999998,-47.0418497,Av. José de Souza Campos,Campinas,SP,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ_RDjx_kvz5QR0o-eg15oLgk,Estação de recarga da Power2Go,-23.090233599999998,-46.947125,"R. Catharina Calssavara Caldana, 122",Louveira,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJQ2k2MFzPyJQRWnc0uLtoyE4,Estação de recarga da Supritec,-22.8896917,-47.041742299999996,"R. Maria da Encarnação Duarte, 263",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJg5s1kE_PyJQR802vvsFSd0Q,Estação de recarga da Tupi,-22.8978619,-47.0492625,"R. Barreto Leme, 2344",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJx454tFjPyJQRlrk0VOwwyDY,Estação de recarga de veículos elétricos,-22.8858459,-47.043886099999995,"Av. José de Sousa Campos, 2254",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ_YxQagDFyJQRUFMiJdqXVxI,Estação de recarga da CPFL Soluções,-22.8574892,-47.0447898,"SPA-135, 065",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJm69LgFK-yJQRPkPu1_ZOUm4,Estação de recarga da Alliance Power Solutions,-22.8050799,-47.177545099999996,"Rua dos Curiós, 14",Sumaré,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ8yBB-DTPyJQRD0MseMwDqlA,Eletroposto Tipo 2,-22.9110218,-47.055926,"Av. Aquidabã, 440",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJuXJSKNFKz5QRN08E-lCxWS4,Estação de recarga da Tupi,-23.0873362,-47.169917,Estrada Lix da Cunha,Indaiatuba,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJd0YTEbbOyJQR4pSBsQ2oMK0,Estação de carregamento para veículos elétricos,-22.946117899999997,-47.052622899999996,"Av. Baden Powell, 2026",Campinas,SP,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJE7VmFQA7WpMR30QHGg7AfXA,Estação de recarga de veículos elétricos,-15.814796399999999,-47.8974663,SHCS SQS 206,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJv0i8bwA5WpMReXBiabgBIeQ,Estação de recarga da Isofen,-15.699022000000001,-47.8790024,St. Taquarí,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJRfZrnoM7WpMRtI-UEVMQeNc,Estação de recarga de veículos elétricos,-15.787414300000002,-47.878384499999996,SBN Q 2,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJR4cQRgAlWpMRdNdc_guwdJ0,Estação de recarga da Isofen,-15.816956900000001,-47.871259599999995,Trecho 2,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJEfZlJwAxWpMRyREQWw9UdeI,Estação de recarga da Isofen Mobi,-15.804963899999999,-47.9519477,Sia Trecho 3 Lotes Pares,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ19EYSgA7WpMR8LHt-5gnEPc,Estação de carregamento de veículos elétricos,-15.7898611,-47.8858737,SHN QD 02 BL D,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJJ6R9uTw7WpMRTUFMTJVbRHw,Estação de recarga de veículos elétricos,-15.7998286,-47.8715751,S/N,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJlWINMwAzWpMRmh7nPLEAx0I,Estação de recarga de veículos elétricos,-15.837396799999999,-48.0108282,"Águas Claras, Brasília",Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJzX4WdgAzWpMRIOzge0Uc598,Estação de recarga da Isofen,-15.841903100000001,-48.031292799999996,"Av. Sibipiruna, 06",Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ93BtAAAvWpMRUwYY5oFzGpo,Estação de recarga da Canaã,-15.8705274,-47.973861799999995,"Spm Q 3, 1570",Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJTzIrWAAzWpMRtWphk4TfBXg,Estação de recarga da Isofen,-15.8355515,-48.0179311,R. das Pitangueiras,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJndk1dAA7WpMR9D3eqvMiHKs,Estação de recarga da WEMOB,-15.805020200000001,-47.880693099999995,SAUS Q. 5,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJGTsjAAA7WpMRYXNkZ8KSSIA,Estação de recarga de veículos elétricos,-15.790067899999999,-47.909102999999995,SIG,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ8RcbQYQ6WpMRasUIn9bt1bs,Estação de carregamento para veículos elétricos,-15.7937515,-47.915472799999996,1425,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJh2hkMOo7WpMR6QwIJPJ_yNA,Estação de carregamento para veículos elétricos,-15.7947317,-47.8736714,0,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJPaUCTgA5WpMRSzuonvKzyeg,Estação de recarga de veículos elétricos,-15.721489899999998,-47.8815768,SHIN CA 1,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJubmpXocyWpMR4ABZx1eBsBs,Estação de recarga da BYD,-15.8492781,-48.0409802,QS 3,Brasília,DF,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJU-Oq_pI7WpMRKh9u8gxSrwM,Estação de carregamento para veículos elétricos,-15.7959463,-47.869352199999994,0,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJg_3BNAAxWpMRSSDkQDdkM2U,Estação de carregamento de veículos elétricos,-15.8270611,-47.9286956,SHLS 716 SHLS 716 Bloco F,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJRf4vnZM5WpMR937AK6-27kk,Estação de carregamento para veículos elétricos,-15.732900800000001,-47.8994448,Setor Terminal Norte,Brasília,DF,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJIVjBPAA5J5URZfzZRzwp58M,Estação de recarga da Brasilis Power,-27.5903372,-48.5461187,"R. Alm. Alvim, 515",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJnVyJfMY3J5UR9J8QnhohiZE,Estação de recarga da Cia Charge,-27.599560999999998,-48.58654,"Av. Gov. Ivo Silveira, 2056",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJAeou9s45J5URzxZFbv1aMyg,Estação de recarga da Shell Recharge,-27.574449299999998,-48.527603799999994,"Av. Gov. Irineu Bornhausen, 4800",Florianópolis,SC,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJTQ-1V8w3J5URrftx12nkzZw,Estação de recarga da Shell Recharge,-27.600642399999998,-48.5962143,"Av. Gov. Ivo Silveira, 2445",Florianópolis,SC,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJzchPI1VJJ5UR70HS_n_Tw8c,Estação de carregamento para veículos elétricos,-27.5852835,-48.6145072,"R. Gerôncio Thives, 1079",São José,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJLbC4IQBJJ5URbINdkwlbmq8,Estação de carregamento de veículos elétricos,-27.5837246,-48.6148405,"R. Sebastião Furtado Pereira, 201",São José,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJr2GC5fI4J5URtF8usGX9kFw,Eletroposto Posto de Serviços Ilha Bela,-27.578035999999997,-48.510609099999996,"Rod. Admar Gonzaga, 500",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJv3LzYy9IJ5URFbyzy4qULDE,Estação de recarga da Wecharge,-27.579119,-48.589076299999995,"Av. Marinheiro Max Schramm, 2700",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ-3Dw0N9JJ5UReb6Wac37ig0,Estação de recarga da Shell Recharge,-27.594254499999998,-48.6182793,"Rua Cassol, 503",São José,SC,Não Informado,Não Informada,Shell Recharge,Não Informado,Ativo,True,Google Places
+gplaces_ChIJOU6oDABFJ5UR8qeVEZOYC3s,Estação de recarga da Brasilis Power,-27.4433741,-48.5068123,"Av. dos Dourados, 481",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJHzCOKwA1J5URvdR8bCLSsRE,Estação de recarga de veículos elétricos,-27.6419583,-48.6719498,"Av. Atílio Pedro Pagani, 270",Palhoça,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJUf7vdsNJJ5UR2aXXhWJ3eyQ,Estação de recarga da Volvo Cars,-27.5828949,-48.614654699999996,"R. Gerôncio Thives, 1099",São José,SC,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ2x3UvRY4J5UREYU1bRbg0HM,Estação de carregamento para veículos elétricos,-27.584992,-48.544658,"R. Bocaiúva, 2468",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJS9ZdpN85J5URzQvYqHp50XE,Estação de carregamento para veículos elétricos,-27.5997968,-48.518284699999995,Campus Universitário Reitor João David Ferreira Lima,Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJP22TCfw4J5URS-djJvXHdzU,Estação de carregamento Eletroposto,-27.591577800000003,-48.5143706,"Av. Me. Benvenuta, 686",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJH81EaBY5J5URp2_YJi-gQnk,WeCharge Estação de Carregamento,-27.5881785,-48.548088199999995,"Av. Trompowsky, 291",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJbwjV71JJJ5URQtCNBzw7WTk,Wecharge Estação de Carregamento,-27.578646300000003,-48.5887099,"R. José de Anchieta, 95",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ4bUp37Q5J5URW7PfxK0ILnQ,WeCharge Estação de Carregamento,-27.587971399999997,-48.5429335,"Av. Mauro Ramos, 1512",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJpyWShzk4J5URCGCCpBTuDqU,Estação de recarga da Tupi,-27.5961239,-48.543654599999996,"Av. Mauro Ramos, 600",Florianópolis,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJtejlD6U1J5URutXk7bxLYSw,Estação de recarga da Dayback,-27.6423414,-48.670885899999995,"Av. Atílio Pedro Pagani, 270",Palhoça,SC,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJVTJy-F7xXpMRXvdepivQ4VQ,Estação de recarga da República do Líbano,-16.679377,-49.2664322,"Av. República do Líbano, 1569",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJe566eQDxXpMRoLcv4UaJZps,Estação de carregamento de veículos elétricos,-16.737222799999998,-49.258390299999995,"Av. São Paulo, 2086",Aparecida de Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJFa-neDP3XpMRrF4R18pKYJY,Estação de recarga da GSOL,-16.7004478,-49.2903622,"Av. C-1, n° 975",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJGd84lKLxXpMRKoPnXVk84a4,Estação de recarga da Fastpower,-16.689042399999998,-49.234865899999996,"rua 41 15, Quadra 19, L13, sala 1",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJDeBt92rxXpMR3FxEQXhn7mY,Estação de recarga da Tupi,-16.6923986,-49.2620271,"R. 143, 61",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJwfpoDADzXpMRSJFfwS2rGXA,Estação de recarga da WEMOB,-16.658199,-49.259372,"R. 44, 399",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJp7eJDgDxXpMRn3IN8MtlkiA,Estação de recarga da Fastpower,-16.7393739,-49.2762183,"Jardim Atlântico, Goiânia",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJVxXH_9_wXpMR687BfjWClos,Estação de recarga da Tupi,-16.7143339,-49.26394200000001,Rua S-1,Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJc3A9V4bxXpMRGxUcNkRQo5Q,Estação de recarga da Tupi,-16.6720983,-49.235761100000005,"Av. Anhanguera, 2651",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ-akUDz3xXpMR_NP0ZSI-VLA,Estação de recarga da BYD,-16.703056099999998,-49.265687899999996,"Av. Mutirão, 3210",Goiânia,GO,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJFYGwEGnxXpMRu5Di_Pqj2n4,Estação de recarga da YellotMob,-16.6878097,-49.260512899999995,"R. 14, 50",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJs2ZYoSPzXpMROsSWlRgBnHM,Estação de recarga da Tupi,-16.611982299999998,-49.2509047,"R. Dr. Napoleão Rodrigues Laureano, 62",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJK0vePQDtXpMRgByPu039Ikg,Estação de recarga da Fastpower,-16.6576591,-49.1998628,"Av. Anápolis, 74",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJrUwXvqzxXpMRsckahGmU7Wg,Estação de recarga da Volvo,-16.7067411,-49.2375731,"Av. Dep. Jamel Cecílio, 3233",Goiânia,GO,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJDWUMAkPxXpMR5hAZKHTgVBA,Estação de recarga da Tupi,-16.688091399999998,-49.2664246,"R. 9, 1053",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJReKnCgDxXpMREDaVgvm9E8o,Estação de recarga de veículos elétricos,-16.7184258,-49.266933099999996,Av. T-4,Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJORUJV9XzXpMRl-2jvdopPBc,Estação de recarga da Cia Charge,-16.671027,-49.244129,"Av. Anhanguera, 3559",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJuZyil2TzXpMR2He1TYI1_o0,Estação de recarga da In Load,-16.628535,-49.273048499999994,"Av. Perimetral Norte, 8879",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJO7M0yrbwXpMRZ2hcSLK6BMM,Estação de recarga de veículos elétricos,-16.7412717,-49.2776196,"Av. Rio Verde, Qd 102/104",Goiânia,GO,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ8R6QhqzxXpMROUpgsJUEkdk,Estação de recarga da BYD,-16.7059648,-49.238099299999995,"Av. Dep. Jamel Cecílio, 3123",Goiânia,GO,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ8xPZIgAbFgcRXzY7G4aOOYY,Estação de recarga de veículos elétricos,-12.9770574,-38.4616949,"Caminho das Árvores, Salvador",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJHYsbowQbFgcRz9SBibRkJmI,Estação de recarga da BYD,-12.979220199999999,-38.4523169,"Av. Tancredo Neves, 1801",Salvador,BA,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJDYtwVwAbFgcRnmAmgt2p7oE,Estação de recarga de veículos elétricos,-12.939757100000001,-38.4316708,"Av. Ulysses Guimarães, 4550",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ02dg7zwbFgcRscGvqRAJbKk,Estação de recarga da BYD,-12.982448699999999,-38.4672572,"Av. Antonio Carlos Magalhães, 3847, Loja 02, Brotas, Salvador, CEP",Salvador,BA,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJn8sbTgAXFgcR-jG65PDpnGI,Estação de carregamento de veículos elétricos,-12.9390191,-38.3870468,"Piatã, Salvador",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJYU08ERkbFgcRCgFdDhfpIU8,Estação de recarga da Volvo Cars,-12.978859799999999,-38.4604585,"Av. Tancredo Neves, 620, Caminho das Árvores, Salvador, BA, Cep:",Salvador,BA,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJy1aLtpEEFgcRfdrMgJgbOo4,Estação de recarga da BR Super Carga,-12.988843399999999,-38.5150265,"Av. Vale dos Barris, 125",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJk897zYcEFgcRhdSk5mKoSi4,Estação de recarga da EZvolt,-12.9905516,-38.5245446,"Av. Sete de Setembro, 1883",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ_aYUAE4XFgcRZ8bThLHrpQY,Estação de recarga da Volvo,-12.936165299999999,-38.3955941,Estacionamento,Salvador,BA,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJvVs3f2AbFgcR03Eo6ldwal8,Estação de recarga da Movida,-13.0079049,-38.46386400000001,"Av. Manoel Dias da Silva, 1375",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJyx3MwIAEFgcROGB2DwW6yT8,Estação de recarga da Hiperideal,-12.9956943,-38.5257043,"Av. Reitor Miguel Calmon, 1977",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJI4TCkBwbFgcRq6sXbKZdSIU,Estação de recarga da Salvador Shopping,-12.9775294,-38.455169999999995,"Caminho das Árvores, Salvador",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJh9AvkakXFgcR7ORe5sPm2OA,Estação de recarga da Volvo Car,-12.919956299999999,-38.3569463,"Av. Luís Viana, 13091, São Cristóvão, Salvador, BA, Cep:",Salvador,BA,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJaRQUKgAbFgcRMb-vh7pcGQk,Estação de recarga da Tupi,-12.9644547,-38.4435511,"R. Silveira Martins, 78",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJTwufoYAEFgcRCsBjjIT6az8,Estação de recarga da Hiperideal Vitória,-12.995346999999999,-38.526779,"Av. Sete de Setembro, 304",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJYXSJnx4bFgcR6fJUbeQ1ypM,Estação de recarga da Chargeon,-12.976395,-38.458812,"Av. Tancredo Neves, 3413",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJRak_Sg4bFgcRb-nFy3oR6T0,Estação de recarga da Volvo Cars,-12.986046799999999,-38.4520968,"Av. Prof. Magalhães Neto, 1681, Pituba, Salvador, BA, Cep:",Salvador,BA,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJk0kXjdcaFgcR9ck4Vh8zXTM,Estação de recarga da Leroy Merlin - Horto Bela Vista,-12.9687404,-38.4750173,"Alameda Euvaldo Luz, 92",Salvador,BA,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJbXdt8E8YqwcRxSNNZYqfixQ,Estação de recarga da BYD,-8.0270644,-34.896113,"Av. Prof. José dos Anjos, 1775",Recife,PE,Não Informado,Não Informada,BYD,Não Informado,Ativo,True,Google Places
+gplaces_ChIJnfioYNsYqwcRWBL28OUMpMo,Estação de recarga da Tupi,-8.0601886,-34.8969094,"R. das Fronteiras, 175",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJKzzciFkZqwcR96eNpQ75jGo,Estação de carregamento para veículos elétricos,-8.0552527,-34.8874766,"R. do Príncipe, 526",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJY8n2VKXhqgcRn8cfyANL8ig,Estação de recarga da Tupi,-8.1735913,-34.9178117,"Av. Ayrton Senna da Silva, N:146",Jaboatão dos Guararapes,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJqQKtp-kYqwcRB68d8pr6U-Y,Estação de recarga da Tupi,-8.053619200000002,-34.891931899999996,"R. João Fernandes Viêira, 331",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJKx2--fYYqwcRH82T7StO0gs,Estação de recarga da Movida,-8.039871999999999,-34.8920329,"Av. João de Barros, 1694",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJc0eopyAZqwcRg8t4MpLx098,Estação de recarga da BR Super Carga,-8.0582646,-34.9066875,"R. Benfica, 845",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ3c5qvt8eqwcRGo1xJTMuD6U,Estação de recarga da KGMlan - Imbiribeira,-8.0898132,-34.9080179,"Av. Mal. Mascarenhas de Morais, 841",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJZ8twQ8nhqgcREAqVDnXX4BY,Estação de recarga da EZVolt,-8.160974999999999,-34.912906,"Av. Bernardo Vieira de Melo, 209",Jaboatão dos Guararapes,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJzzoQG_weqwcR5g_ARfKh3Jw,Estação de recarga da Tupi,-8.1043498,-34.9112504,"Av. Mal. Mascarenhas de Morais, 2314",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJW9sklsgYqwcRFN5zOGGtcpU,Estação de recarga da Greenpark - Coelhos,-8.0661233,-34.888585,"R. Dr. José Mariano, 741",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJwSgLIPkYqwcRGIg5g59xSMU,Estação de recarga da Volvo,-8.0388824,-34.8997404,"Av. Conselheiro Rosa e Silva, 1460, Aflitos, Recife, PE, Cep:",Recife,PE,Não Informado,Não Informada,Volvo,Não Informado,Ativo,True,Google Places
+gplaces_ChIJY9cQTwAXqwcR44lwgkSZQHE,Estação de recarga da WEMOB,-7.9377497,-34.878228299999996,"R. do Nobre, 2",Paulista,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJC8zESTkZqwcR4tFuiVHnqXY,iPLUGUI - Estação de Recarga de Veículos Elétricos,-8.0440836,-34.890301,"Av. João de Barros, 1187",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ6ZAbOE8YqwcR1b0A23Ia2ho,Estação de recarga da Tupi,-8.0236058,-34.8965856,"R. São Bento, 340",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJaaWyVAwfqwcRdkM5Ndv8dqw,Estação de recarga da New Mobility,-8.104761,-34.887504199999995,"R. Artur Muniz, S/N",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ7xzolSkDqwcR8yGLTCtBcpI,Estação de recarga da Zon Charge,-8.094969299999999,-35.0454807,"BR-232, KM 22",Jaboatão dos Guararapes,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ18p-4hQ9qwcR-3NMFiUPggM,Estação de recarga da Zon Charge,-7.984734800000001,-34.8384649,"Av. Carlos de Lima Cavalcante, 2350",Olinda,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJt_gy_NYeqwcRp-RJ23PJZx0,Estação de recarga da Tupi,-8.0795852,-34.909715,"R. Santos Araújo, 107",Recife,PE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJhSPTKgBJxwcRsj_ULJIs6Ms,Estação de recarga de veículos elétricos,-3.7416259,-38.5091453,"Av. Barão de Studart, 2090",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJGTS0LktJxwcRb5ZbK5tbJQM,Estação de carregamento de veículos elétricos,-3.749548,-38.5214074,"Av. Visconde do Rio Branco, 3248",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJE7jskG9IxwcR0BEhWubQPFE,Estação de recarga da Tupi,-3.7270545999999993,-38.4973902,"Av. da Abolição, 2432",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJNa8vFQBJxwcRaFmiL4z1cRY,Estação de recarga de veículos elétricos,-3.7356631,-38.5610168,Shopping Bosque Open Mall,Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJq0xENQtJxwcRqYszeMaPPr4,Estação de recarga de veículos elétricos,-3.7349010999999996,-38.496808099999996,"R. Barbosa de Freitas, 1035",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJhb0C79NOxwcRKbjwBqVfRpw,Estação de recarga da Planeta Charge,-3.7699494,-38.5331337,"R. Livreiro Gualter, 123",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJUYZ0XjFGxwcRUPcefgXkgiY,Estação de recarga da BR Super Carga,-3.7416859999999996,-38.471028499999996,"R. Des. Lauro Nogueira, 1500",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJCQXUIQBJxwcREbd7X6gEIVg,Estação de recarga de veículos elétricos,-3.7519853999999997,-38.5084551,"Av. Pontes Vieira, 1465",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJbznnMDhHxwcR8EKaGuNYiMg,Estação de carregamento para veículos elétricos,-3.7482241999999997,-38.4532543,"Av. Santos Dumont, 8011",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJjzVPYKpJxwcRMhA9WnJDhbI,Estação de recarga da Commercial Brazil,-3.7332679,-38.52976040000001,"R. Major Facundo, 1182",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJy9knea9IxwcRjeXLEyDUYtE,Estação de recarga da New House GMW - Fortaleza,-3.7607523999999994,-38.4926992,"Av. Rogaciano Leite, 323",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJgwLRsBxMxwcR5CDvD7zwrzE,Estação de recarga da Voltz,-3.7729397999999996,-38.5733378,"R. Aluísio Azevedo, 86",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJKUW4e2ZOxwcRdSVg3jkvS6o,Estação de recarga da Zon Charge,-3.8044435,-38.552873399999996,"Av. Bernardo Manuel, 9977",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJJ9EcLwBJxwcRmmq7G1pyMCk,Estação de recarga de veículos elétricos,-3.7305118,-38.5145604,"R. João Cordeiro, 1139",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJq-8-nrJJxwcRX7gszwsIObk,Estação de recarga da Ion Mobilidade,-3.7260702,-38.5285765,"R. Barão do Rio Branco, 872",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJSYMEfQBJxwcRwOMqy983rn4,Estação de recarga de veículos elétricos,-3.7568309,-38.4875245,"Av. Washington Soares, 85",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJawq-cXFFxwcRTtv-ameZa1Y,Estação de recarga da BR Super Carga,-3.808032,-38.4701205,"Av. Maestro Lisboa, 1034-1140",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
+gplaces_ChIJ3-ljd5BIxwcRVG54kUQkZck,Estação de recarga da Voltz,-3.7455838999999997,-38.4957267,"Av. Senador Virgílio Távora, 2201",Fortaleza,CE,Não Informado,Não Informada,Independente,Não Informado,Ativo,True,Google Places
