@@ -58,7 +58,9 @@ jobs:
         run: python3 run_etl.py --compile
 
       - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Preparar Artefatos Estáticos
         run: |
