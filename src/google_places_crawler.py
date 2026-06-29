@@ -6,7 +6,7 @@ import urllib.parse
 import time
 import logging
 from config import CSV_PATH, CSV_HEADERS, SEARCH_HUBS
-from utils import haversine_distance, parse_address_components
+from utils import haversine_distance, parse_address_components, normalize_network_name
 from compile_data import compile_csv_to_js
 
 logger = logging.getLogger(__name__)
@@ -64,16 +64,7 @@ def fetch_google_places_stations(api_key: str, lat: float, lon: float, radius: f
                 cidade, estado = parse_address_components(address)
                 
                 # Heurística para operadora com base no nome
-                rede = "Independente"
-                nome_lower = nome.lower()
-                if "tupinambá" in nome_lower or "tupinamba" in nome_lower: rede = "Tupinambá"
-                elif "volvo" in nome_lower: rede = "Volvo"
-                elif "raízen" in nome_lower or "raizen" in nome_lower: rede = "Raízen Power"
-                elif "shell" in nome_lower: rede = "Shell Recharge"
-                elif "porsche" in nome_lower: rede = "Porsche"
-                elif "bmw" in nome_lower: rede = "BMW"
-                elif "byd" in nome_lower: rede = "BYD"
-                elif "weg" in nome_lower: rede = "WEG"
+                rede = normalize_network_name("Independente", nome)
 
                 stations.append({
                     "id_posto": f"gplaces_{place_id}",
