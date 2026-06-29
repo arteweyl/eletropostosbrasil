@@ -17,7 +17,10 @@ Plataforma colaborativa e mapa interativo de postos de recarga elétrica para ve
 │   ├── crawler.py                # Coletor de dados do OpenStreetMap (Overpass API)
 │   ├── google_places_crawler.py  # Coletor de dados do Google Places API (New)
 │   ├── enrich_data.py            # Enriquecedor de endereços usando OSM Nominatim
+│   ├── clean_data.py             # Normalizador e limpador de redes operadoras
 │   └── compile_data.py           # Compilador do CSV para eletropostos_data.js
+├── tests/
+│   └── test_utils.py             # Testes unitários do projeto (cobertura de utilitários)
 ├── index.html                # Dashboard / Mapa interativo local (Leaflet.js)
 ├── run_etl.py                # Wrapper CLI central para executar o pipeline
 ├── run_dashboard.py          # Script para iniciar o servidor web local
@@ -62,6 +65,10 @@ Você pode combinar ou isolar as flags dependendo da sua necessidade:
     ```bash
     python3 run_etl.py --enrich
     ```
+*   **Normalizar nomes das redes operadoras nos arquivos CSV:**
+    ```bash
+    python3 run_etl.py --clean
+    ```
 *   **Apenas compilar dados do CSV para JavaScript:**
     ```bash
     python3 run_etl.py --compile
@@ -78,3 +85,29 @@ python3 run_dashboard.py
 ```
 
 O script iniciará um servidor em `http://localhost:8001` e abrirá a página automaticamente no seu navegador padrão.
+
+---
+
+## 🧪 Testes Unitários
+
+Para garantir a confiabilidade dos cálculos geográficos, extração de endereços e regras de normalização de redes, o repositório possui uma suite de testes unitários escrita com o módulo padrão `unittest` do Python.
+
+Para rodar os testes a partir do diretório raiz do projeto:
+
+```bash
+python3 -m unittest tests/test_utils.py
+```
+
+---
+
+## 🚀 Integração e Deploy Contínuo (CI/CD)
+
+O repositório está equipado com um pipeline de automação via **GitHub Actions** configurado em [.github/workflows/ci_cd.yml](file:///mnt/c/Users/lcwey/eletropostos_brasil/.github/workflows/ci_cd.yml):
+
+*   **CI (Integração Contínua):** A cada *push* ou *pull request* para as branches `main` ou `master`, os testes unitários são executados automaticamente em um ambiente Ubuntu limpo.
+*   **CD (Deploy Contínuo):** Ao realizar um *push* na branch principal, caso os testes unitários passem, o pipeline:
+    1.  Compila os dados mais recentes do CSV consolidado para JavaScript.
+    2.  Separa e prepara apenas a pasta estática de produção (`index.html` e a pasta `data/`).
+    3.  Publica o painel de visualização atualizado diretamente no **GitHub Pages** do repositório.
+
+*Para ativá-lo, lembre-se de configurar o GitHub Pages nas configurações do seu repositório do GitHub (selecionando o deploy a partir do GitHub Actions).*
